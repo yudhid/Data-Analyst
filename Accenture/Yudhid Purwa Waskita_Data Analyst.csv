@@ -1,0 +1,1002 @@
+Column1,Column2,Column3,Column3.4,Column4.1,Column3.1,Column4.3,Column3.3,Column4.2,Column5,Column3.2,Column4,Column3.5,Column4.4
+,Content ID,User ID,Name,Age,Address,Email,Device,Duration,Datetime,Interests,Type,Sentiment,Score
+1,97522e57-d9ab-4bd6-97bf-c24d952602d2,5d454588-283d-459d-915d-c48a2cb4c27f,Richard Smith,6,"00358 Heather Gardens
+Lake Heidiview, OH 42464",RS@gmail.com,Motorola,88,11/7/2020 9:43,['travel'],disgust,negative,0
+2,97522e57-d9ab-4bd6-97bf-c24d952602d2,92b87fa5-f271-43e0-af66-84fac21052e6,Myrtis Clark,30,"0574 Elizabeth Road Suite 512
+East Candiceville, ND 76242",MC@gmail.com,Huawei,11,6/17/2021 12:22,['cooking'],dislike,negative,10
+3,97522e57-d9ab-4bd6-97bf-c24d952602d2,163daa38-8b77-48c9-9af6-37a6c1447ac2,Helen Tuttle,5,"533 Joseph Isle Suite 449
+Wardland, TX 97192",HT@gmail.com,Motorola,26,4/18/2021 5:13,"['studying', 'tennis', 'veganism', 'technology']",scared,negative,15
+4,97522e57-d9ab-4bd6-97bf-c24d952602d2,34e8add9-0206-47fd-a501-037b994650a2,Racheal Hart,17,"30254 Gregory Canyon Suite 734
+West Sarah, MT 91811",RH@gmail.com,Microsoft,96,1/6/2021 19:13,"['studying', 'public speaking']",disgust,negative,0
+5,97522e57-d9ab-4bd6-97bf-c24d952602d2,9b6d35f9-5e15-4cd0-a8d7-b1f3340e02c4,Donna Valdovinos,23,"0090 Adams Viaduct
+New Benjamin, VT 75869",DV@gmail.com,HTC,19,8/23/2020 12:25,"['animals', 'animals', 'dogs']",interested,positive,30
+6,97522e57-d9ab-4bd6-97bf-c24d952602d2,7918d465-0953-4f20-9e28-539e74c82e2f,Lesley Franich,5,"655 Jessica Valleys Apt. 029
+Wilsonmouth, OH 61668",LF@gmail.com,Apple,79,12/7/2020 6:27,"['animals', 'dogs', 'travel']",peeking,neutral,35
+7,97522e57-d9ab-4bd6-97bf-c24d952602d2,fa3e42f0-71d8-455f-b024-e52d5c27a145,Dayna Walton,4,"1794 Robertson Loaf Suite 046
+New Craigshire, GA 17333",DW@gmail.com,Motorola,35,4/11/2021 17:35,"['education', 'healthy eating', 'soccer', 'veganism']",cherish,positive,70
+8,97522e57-d9ab-4bd6-97bf-c24d952602d2,b0c22f82-b882-4394-bf27-6dfadf26e5c2,Anthony Keil,11,"6520 Mary Bridge Suite 490
+North Juliashire, UT 32383",AK@gmail.com,HTC,31,1/27/2021 8:32,['studying'],hate,negative,5
+9,97522e57-d9ab-4bd6-97bf-c24d952602d2,1932a904-86ba-4438-bb52-b7e6516a4019,Louise Laramore,20,"209 Christina Valleys
+West Jason, OK 13984",LL@gmail.com,Motorola,42,4/1/2021 22:54,['dogs'],peeking,neutral,35
+11,97522e57-d9ab-4bd6-97bf-c24d952602d2,f50ac030-3af8-4e07-aacf-dccff353b8f6,Andrea Fay,23,"4006 Joyce Field
+South Blake, WV 44974",AF@gmail.com,Huawei,58,11/7/2020 8:36,['education'],indifferent,neutral,20
+12,97522e57-d9ab-4bd6-97bf-c24d952602d2,b09e3125-2162-443b-bea0-25895b7605bc,Deborah Hamm,42,"5130 Christine Parks
+West Jaredstad, NE 51136",DH@gmail.com,Samsung,49,11/2/2020 6:28,['technology'],scared,negative,15
+13,97522e57-d9ab-4bd6-97bf-c24d952602d2,b143cd2b-20b1-4e9c-9bb7-cfb359b33d01,Judy Cobbley,36,"19989 Gina Burgs Suite 207
+Johnsonmouth, NV 87900",JC@gmail.com,Samsung,44,11/1/2020 1:16,['soccer'],interested,positive,30
+14,97522e57-d9ab-4bd6-97bf-c24d952602d2,48e834aa-fd4a-4206-93e8-ac8fdac613bc,Marc Reed,3,"359 Deanna Vista Apt. 925
+Tommyborough, TN 75663",MR@gmail.com,Samsung,6,10/7/2020 18:39,['travel'],hate,negative,5
+15,97522e57-d9ab-4bd6-97bf-c24d952602d2,7246fed1-8725-4dbb-bccd-5451346f122d,Candice Dickerson,19,"617 Douglas Turnpike
+East Rebeccashire, WI 48819",CD@gmail.com,Apple,74,9/3/2020 18:51,"['food', 'healthy eating']",scared,negative,15
+16,97522e57-d9ab-4bd6-97bf-c24d952602d2,9664d628-9163-4aae-94e0-311f3bdb2f11,Anthony Dunkerson,42,"73298 Osborne Mountain
+Tuckerfort, WV 57942",AD@gmail.com,Huawei,56,2/24/2021 5:09,"['travel', 'animals', 'education']",super love,positive,75
+17,97522e57-d9ab-4bd6-97bf-c24d952602d2,2dd186bb-7a28-4e80-99c7-f1936afc7b49,Benita Brady,16,"473 Ronald Manor
+East Olivia, ME 99898",BB@gmail.com,Apple,66,9/23/2020 6:24,"['cooking', 'science', 'studying', 'culture']",peeking,neutral,35
+18,97522e57-d9ab-4bd6-97bf-c24d952602d2,f4ed8f9c-5eac-4d77-a206-c60afda2921a,Shirley Peredo,38,"526 Kimberly Center Suite 341
+New Lisa, CO 12768",SP@gmail.com,HTC,60,2/24/2021 11:37,"['tennis', 'tennis']",indifferent,neutral,20
+21,97522e57-d9ab-4bd6-97bf-c24d952602d2,35d6a1f3-e358-4d4b-8074-05f3b7f35c2a,Oscar Gilman,32,"2846 Jones Field
+Leeberg, ME 29721",OG@gmail.com,Motorola,67,11/20/2020 17:26,"['cooking', 'culture', 'studying', 'tennis']",peeking,neutral,35
+22,97522e57-d9ab-4bd6-97bf-c24d952602d2,c64c5004-6ab5-4faa-9fcd-8039fe57799d,Jeffery Pedrick,16,"9993 Marks Shoals
+South Ronaldstad, NV 15604",JP@gmail.com,Google,38,4/11/2021 20:47,"['healthy eating', 'technology', 'science', 'education']",worried,negative,12
+23,97522e57-d9ab-4bd6-97bf-c24d952602d2,4cff698b-def1-497c-a78e-75058de67fe8,Sarah Lococo,38,"38904 Nguyen Lock Suite 118
+Lake Robert, CA 25680",SL@gmail.com,Huawei,74,6/13/2021 16:46,['animals'],like,positive,50
+24,97522e57-d9ab-4bd6-97bf-c24d952602d2,0a1cde57-79ab-4c61-b664-1d3b290b43cf,Tara Cruz,14,"5003 Potter Alley
+Lake Meredith, NH 92634",TC@gmail.com,Google,68,4/11/2021 14:29,['public speaking'],heart,positive,60
+25,97522e57-d9ab-4bd6-97bf-c24d952602d2,afab7336-04d3-45fe-8917-0327c56e7435,Angela Ivie,11,"668 Collins Drive
+Aprilfort, ND 24342",AI@gmail.com,Motorola,16,3/2/2021 19:21,"['travel', 'cooking']",worried,negative,12
+26,97522e57-d9ab-4bd6-97bf-c24d952602d2,29ba1f29-2e45-41bd-9c43-05d0dae6c1c6,Katherine Riffle,36,"305 Gutierrez Forks
+Mayborough, FL 20709",KR@gmail.com,Motorola,88,6/27/2020 18:44,['technology'],hate,negative,5
+27,97522e57-d9ab-4bd6-97bf-c24d952602d2,e74edcea-5db4-4412-a4ce-eb7c5adc314a,Jeanie Kirn,26,"644 Emily Burgs
+South Paulstad, TX 93774",JK@gmail.com,Motorola,40,5/9/2021 21:05,"['food', 'healthy eating', 'soccer', 'technology']",hate,negative,5
+28,97522e57-d9ab-4bd6-97bf-c24d952602d2,69527334-c362-47df-87fc-5e2b5e2605e5,Gilbert Faire,38,"8905 Taylor Squares
+Mahoneyview, OK 75053",GF@gmail.com,HTC,15,8/4/2020 23:58,"['travel', 'tennis']",cherish,positive,70
+29,97522e57-d9ab-4bd6-97bf-c24d952602d2,bc142f57-1307-46c6-9975-8c3a1e5f540c,Benjamin Peltier,19,"25502 Amy Square Apt. 092
+Thompsonville, NM 47897",BP@gmail.com,HTC,27,8/28/2020 3:57,"['education', 'tennis']",super love,positive,75
+31,97522e57-d9ab-4bd6-97bf-c24d952602d2,d6204684-926d-41db-ae9c-a7bf2e76313a,Jeffery Zerbe,24,"41287 Miller Isle
+Tylermouth, VT 38540",JZ@gmail.com,Motorola,99,4/20/2021 23:48,"['public speaking', 'dogs']",scared,negative,15
+32,97522e57-d9ab-4bd6-97bf-c24d952602d2,941db1b1-270d-47f8-8a96-43f5a7481f03,Dwight Jefferson,14,"70091 Davis Spurs
+New Georgeborough, TX 29949",DJ@gmail.com,Motorola,86,3/7/2021 12:40,"['healthy eating', 'science', 'public speaking', 'veganism']",interested,positive,30
+34,97522e57-d9ab-4bd6-97bf-c24d952602d2,568e7c6f-b1e9-4a85-897c-aaaaa0ce8832,Orlando Sapp,14,"276 Abigail Club Suite 257
+Rogershaven, TX 09776",OS@gmail.com,Motorola,3,1/24/2021 11:03,"['cooking', 'education', 'food', 'travel']",super love,positive,75
+35,97522e57-d9ab-4bd6-97bf-c24d952602d2,13c06e7e-833d-47eb-a790-5e09ccfd8d2c,Rebecca Swanner,28,"663 Golden Loaf
+Heidistad, CO 16965",RS@gmail.com,Microsoft,3,4/9/2021 2:46,"['tennis', 'animals']",disgust,negative,0
+36,97522e57-d9ab-4bd6-97bf-c24d952602d2,5ad56e97-58f6-4e66-9b8f-5c16358a9a97,Darlene Kovacs,11,"783 Rios Stream
+Bryantville, DE 43460",DK@gmail.com,Motorola,45,2/2/2021 3:43,"['dogs', 'travel']",super love,positive,75
+37,97522e57-d9ab-4bd6-97bf-c24d952602d2,bcdf88dc-2a52-4716-bc24-a1b46040c8ce,Edwin Raley,36,"8817 Peters Mountain
+Patrickberg, NH 71632",ER@gmail.com,HTC,69,2/4/2021 3:06,['fitness'],interested,positive,30
+38,97522e57-d9ab-4bd6-97bf-c24d952602d2,69532ce2-1ffe-4187-8042-0230d115b24e,Daryl Owens,35,"022 Allison Branch
+South John, IA 33036",DO@gmail.com,Microsoft,11,11/9/2020 2:49,"['studying', 'healthy eating']",dislike,negative,10
+39,97522e57-d9ab-4bd6-97bf-c24d952602d2,8f3d5674-544d-4f70-b4c1-7b9d93371855,John Rancourt,5,"140 Smith Forges
+South Heatherbury, NC 69055",JR@gmail.com,Google,96,9/29/2020 16:00,"['studying', 'fitness']",scared,negative,15
+41,97522e57-d9ab-4bd6-97bf-c24d952602d2,9be473d9-cfdf-4954-bae2-09b0555a8ebb,Elisabeth Stewart,42,"1480 Wong Bridge Suite 863
+West Hunterburgh, MS 92171",ES@gmail.com,HTC,0,2/13/2021 7:54,"['cooking', 'tennis']",want,positive,70
+42,97522e57-d9ab-4bd6-97bf-c24d952602d2,48e26178-5cdd-4568-9990-d3bc5937910b,Benjamin Baker,43,"12492 Harris Underpass Apt. 319
+Larryfurt, OH 30726",BB@gmail.com,Huawei,73,7/14/2020 5:28,"['fitness', 'technology', 'veganism']",interested,positive,30
+43,97522e57-d9ab-4bd6-97bf-c24d952602d2,ed5e1675-94a8-482c-8b43-1b9bb71d0495,Brett Sandidge,43,"61958 Courtney Branch
+Sarastad, VT 69469",BS@gmail.com,Google,59,8/23/2020 10:30,"['veganism', 'public speaking', 'technology', 'studying']",indifferent,neutral,20
+44,97522e57-d9ab-4bd6-97bf-c24d952602d2,d81dc9d9-a614-40f1-9dd4-7a4a05bac243,Oscar Murphy,36,"60738 Matthew Square
+Lake Christine, HI 24434",OM@gmail.com,Motorola,0,5/10/2021 9:27,"['food', 'tennis', 'tennis']",worried,negative,12
+45,97522e57-d9ab-4bd6-97bf-c24d952602d2,d0ea9a00-4ea9-4c81-b16a-a20b72f824ea,Phillip Johnson,15,"USS Dawson
+FPO AA 46857",PJ@gmail.com,Apple,8,3/15/2021 3:59,['fitness'],hate,negative,5
+47,9f737e0a-3cdd-4d29-9d24-753f4e3be810,ddd079a8-00dd-4aab-9551-11961171db16,Edward Kettler,17,"088 Smith Via Suite 090
+Danielmouth, SC 45333",EK@gmail.com,HTC,83,6/25/2020 17:01,['public speaking'],dislike,negative,10
+48,9f737e0a-3cdd-4d29-9d24-753f4e3be810,cbc99939-e6a6-4269-9819-bffce6f38751,Jose Suiter,5,"41768 Hannah Canyon Apt. 170
+North Ann, MN 10765",JS@gmail.com,Samsung,1,9/13/2020 0:11,"['cooking', 'education', 'fitness', 'soccer']",intrigued,positive,45
+49,9f737e0a-3cdd-4d29-9d24-753f4e3be810,289044c8-e74c-4814-898a-b3b5eba6e46e,Megan Keck,10,"3625 Rebecca Crescent
+West Benjamin, CA 88681",MK@gmail.com,Apple,57,8/20/2020 18:17,"['veganism', 'tennis', 'cooking']",peeking,neutral,35
+51,9f737e0a-3cdd-4d29-9d24-753f4e3be810,a483c273-aee5-44bc-883e-d6963157aa4c,Brian Collins,41,"9200 Gamble Brooks
+Davidberg, WI 96602",BC@gmail.com,Google,11,3/8/2021 10:40,"['animals', 'dogs']",hate,negative,5
+52,9f737e0a-3cdd-4d29-9d24-753f4e3be810,8b49caad-bcc5-43de-bf40-34a66ff8805c,James Phillips,25,"8389 Torres Street
+South Maria, AL 04577",JP@gmail.com,Microsoft,3,3/28/2021 21:15,['food'],disgust,negative,0
+53,9f737e0a-3cdd-4d29-9d24-753f4e3be810,e6a52b6a-20ec-4b09-bbb7-4a1138014985,Mari Gonzalez,2,"210 Jessica Falls Apt. 733
+Josephton, DC 18690",MG@gmail.com,Huawei,41,5/25/2021 1:00,['technology'],hate,negative,5
+55,9f737e0a-3cdd-4d29-9d24-753f4e3be810,3efc3621-873a-4b80-a0cb-27e531d600be,Benjamin Leon,4,"610 Austin Avenue
+Pricefurt, WV 16492",BL@gmail.com,Microsoft,5,5/5/2021 16:26,"['technology', 'studying', 'veganism', 'soccer']",love,positive,65
+57,9f737e0a-3cdd-4d29-9d24-753f4e3be810,91fa7240-3d29-4dd0-baf1-ace7742a6e3f,Bessie Mcintyre,30,"48590 Cooper Stream Suite 889
+South Sean, NC 71373",BM@gmail.com,Samsung,90,6/16/2021 3:02,['education'],heart,positive,60
+59,9f737e0a-3cdd-4d29-9d24-753f4e3be810,78703a69-8edc-458f-b0fc-85d96501dcdc,Patrick Dahlman,1,"290 Yates Loaf
+Melissaville, AL 10176",PD@gmail.com,Motorola,3,8/20/2020 7:59,['education'],peeking,neutral,35
+60,9f737e0a-3cdd-4d29-9d24-753f4e3be810,054b5d2a-7ee3-49c8-912a-1cf58389ae60,Walter Lund,36,"31352 Alan Vista
+New Amyshire, ND 40158",WL@gmail.com,Microsoft,92,9/23/2020 11:15,"['studying', 'healthy eating', 'fitness', 'culture']",love,positive,65
+61,9f737e0a-3cdd-4d29-9d24-753f4e3be810,7adafb3c-7c7c-492b-be5b-5ddd9ff1316a,April Bitner,16,"9413 Lawrence Terrace Apt. 564
+Michaelview, KS 70932",AB@gmail.com,Samsung,70,3/24/2021 5:56,"['public speaking', 'studying', 'public speaking']",like,positive,50
+63,230c4e4d-70c3-461d-b42c-ec09396efb3f,ad4bd878-55e7-487c-a4db-470b23bbd832,Eva Lollar,11,"08487 Heather Villages
+Roseberg, WV 43804",EL@gmail.com,Motorola,97,12/7/2020 19:13,"['veganism', 'cooking', 'food', 'science']",hate,negative,5
+64,230c4e4d-70c3-461d-b42c-ec09396efb3f,425b7021-0409-4358-af39-2bff14197d0a,Christa Thomas,20,"6967 Gonzalez Roads Suite 288
+Lake Rose, DC 62330",CT@gmail.com,Motorola,47,8/3/2020 16:41,['travel'],super love,positive,75
+65,230c4e4d-70c3-461d-b42c-ec09396efb3f,15cf4392-8541-422b-8957-a9c0380c11d9,Matthew Henning,39,"83443 Briana Crossing
+Haleyland, MT 05041",MH@gmail.com,Huawei,30,1/10/2021 15:36,"['fitness', 'cooking', 'healthy eating', 'soccer']",adore,positive,72
+66,230c4e4d-70c3-461d-b42c-ec09396efb3f,4c731e48-0377-4d7d-b4c8-b2174b774ed8,Gary Hill,41,"6208 Wright Mountains
+Bryantfurt, AR 02531",GHbnuothhymw,Microsoft,11,9/20/2020 8:48,"[0, 1]",scared,negative,15
+67,230c4e4d-70c3-461d-b42c-ec09396efb3f,64b33556-9ecf-4ebc-8b4c-f829ab1a4881,Michael Tuite,16,"81554 Martin Isle Suite 028
+Ballville, WA 57059",MT@gmail.com,Motorola,81,7/20/2020 14:06,"['food', 'animals']",cherish,positive,70
+69,230c4e4d-70c3-461d-b42c-ec09396efb3f,cfe50481-7c50-48fa-97fa-89b6f137e1bd,Ruth Palmer,11,"854 Andrew Tunnel Apt. 147
+North Steven, HI 03808",RPbrxoephmar,HTC,54,6/6/2021 1:27,['dogs'],interested,positive,30
+70,230c4e4d-70c3-461d-b42c-ec09396efb3f,54a8e072-5369-4122-9189-43b55e1a4ba2,Micheal Vargas,27,"9099 Katie Burgs Apt. 064
+Robertsport, NH 98023",MV@gmail.com,Huawei,33,12/25/2020 0:09,"[0, 1]",heart,positive,60
+71,230c4e4d-70c3-461d-b42c-ec09396efb3f,15c2ba5b-eeb6-4d9b-a0e2-7d5461a21c0a,Garrett Lewis,28,"92743 Colleen Isle Apt. 112
+Nicholsview, NJ 76127",GL@gmail.com,Motorola,13,6/14/2021 7:56,"['education', 'healthy eating', 'studying', 'veganism']",like,positive,50
+73,230c4e4d-70c3-461d-b42c-ec09396efb3f,d71363d5-6468-44b0-b641-94c4776bce98,Mary Cox,20,"0535 Tucker Freeway
+Danielview, OR 46067",MC@gmail.com,Huawei,91,11/18/2020 23:37,"['tennis', 'science', 'soccer', 'culture']",hate,negative,5
+74,230c4e4d-70c3-461d-b42c-ec09396efb3f,acbac577-54c9-4476-af3c-a3241a3f4a19,Diane Martinez,13,"939 Lucas Junctions
+Millsberg, SC 79696",DM@gmail.com,HTC,96,5/9/2021 2:42,['food'],interested,positive,30
+75,230c4e4d-70c3-461d-b42c-ec09396efb3f,89d6bd9d-ce6b-42e5-bb9b-ece3b338396d,Henry Landis,15,"458 Fox Road
+Marcville, AR 57856",HL@gmail.com,Samsung,90,5/11/2021 8:38,"['veganism', 'education', 'soccer']",dislike,negative,10
+76,230c4e4d-70c3-461d-b42c-ec09396efb3f,5870e611-6218-48e1-a9a0-ba86fe5598f7,Mary Carlin,19,"858 Wilson Throughway
+Lake Craigburgh, CA 21543",MC@gmail.com,Google,19,11/12/2020 8:00,['public speaking'],peeking,neutral,35
+77,230c4e4d-70c3-461d-b42c-ec09396efb3f,b76ebf8d-3f04-4e7f-aec8-22575f68d9e2,Michael Deltoro,30,"246 Joanna Fall
+Holmesfort, SD 71673",MD@gmail.com,Motorola,56,6/21/2020 16:57,"['food', 'culture']",heart,positive,60
+78,230c4e4d-70c3-461d-b42c-ec09396efb3f,a6668254-c779-424c-8c8b-1762bf45916e,Jerry Ashe,35,"8363 Mary Route
+Michaelport, UT 03644",JA@gmail.com,Huawei,33,3/4/2021 23:58,"['food', 'dogs', 'studying']",super love,positive,75
+79,230c4e4d-70c3-461d-b42c-ec09396efb3f,7f8ef27a-73f4-4bc1-aa62-f8aaea817294,David Watkins,16,"118 Rodney Pine Suite 445
+Port Jeffrey, MS 16199",DW@gmail.com,Apple,67,7/9/2020 16:47,"['soccer', 'studying', 'food', 'tennis']",want,positive,70
+80,230c4e4d-70c3-461d-b42c-ec09396efb3f,b6d04982-1509-41ab-a700-b390d6cb4d02,Michelle Limerick,39,"3817 Brittany Knoll Suite 377
+Danieltown, NY 07981",ML@gmail.com,Google,95,8/1/2020 19:16,"['tennis', 'fitness']",hate,negative,5
+81,230c4e4d-70c3-461d-b42c-ec09396efb3f,225f147b-0951-40a8-96fb-2ceba9f3153a,Russell Morris,18,"6819 Jeffrey Green Suite 499
+Robertport, IN 32685",RM@gmail.com,HTC,34,11/23/2020 22:46,"['studying', 'healthy eating']",dislike,negative,10
+85,230c4e4d-70c3-461d-b42c-ec09396efb3f,ab9a4d70-3ae4-48d6-b161-c18bd687c3b4,Terry Huang,25,"3475 Monique Station
+East Jacobborough, VA 02578",TH@gmail.com,Microsoft,32,6/9/2021 10:13,"['fitness', 'fitness', 'veganism']",interested,positive,30
+86,230c4e4d-70c3-461d-b42c-ec09396efb3f,94bf7864-a52e-405e-a729-9702bf79c234,Pamela Jones,16,"285 Robertson Trail Apt. 317
+Lindastad, VT 81128",PJ@gmail.com,Apple,63,10/29/2020 19:41,"[0, 1]",love,positive,65
+87,230c4e4d-70c3-461d-b42c-ec09396efb3f,31d378e7-9e95-4e8a-b564-7fd346027dfe,Kristina Pruett,4,"083 Chan Trace
+Port Michaelton, NC 80868",KP@gmail.com,Motorola,76,5/14/2021 12:47,"['animals', 'fitness']",heart,positive,60
+88,230c4e4d-70c3-461d-b42c-ec09396efb3f,ef147ea5-9696-44d5-b6c2-a43f62fd8ce2,Anne Davies,42,"927 Sanders Port
+Owensville, AL 42282",AD@gmail.com,Apple,87,8/4/2020 5:40,"['studying', 'soccer']",disgust,negative,0
+90,230c4e4d-70c3-461d-b42c-ec09396efb3f,cab84c6a-e342-43ab-85a1-9c6ac1e93bac,Johnny Dekle,1,"360 Nathan Oval
+South Jonathon, MT 55707",JD@gmail.com,Apple,93,10/23/2020 21:19,"['cooking', 'soccer', 'animals']",adore,positive,72
+91,230c4e4d-70c3-461d-b42c-ec09396efb3f,ba55c3a8-5ab2-486a-8c90-b972117453bb,Michael Eudy,42,"870 Catherine Crescent
+Jesusland, ID 53207",ME@gmail.com,Microsoft,54,11/14/2020 23:53,"['culture', 'science', 'healthy eating', 'fitness']",adore,positive,72
+93,230c4e4d-70c3-461d-b42c-ec09396efb3f,9a84c667-c913-47ce-be69-0f847dbfe0db,Daniel Gray,37,"9439 Jeffrey Alley Suite 593
+Lake Kristen, AZ 73247",DG@gmail.com,Google,68,11/12/2020 4:54,['soccer'],interested,positive,30
+95,356fff80-da4d-4785-9f43-bc1261031dc6,c8145b49-3841-466e-9d49-a636ce2e7d1f,Robert Holt,7,"0702 Jones Village Suite 219
+South Rhondabury, WA 14290",RH@gmail.com,Huawei,18,4/3/2021 12:17,"['food', 'technology', 'food', 'education']",worried,negative,12
+96,356fff80-da4d-4785-9f43-bc1261031dc6,ef56931b-540b-4166-9090-73ae48ac8d97,Lydia Page,27,"274 Deleon Estates
+Lake Jennifer, TX 07214",LP@gmail.com,Huawei,59,9/27/2020 22:15,"['healthy eating', 'public speaking', 'science', 'education']",want,positive,70
+97,356fff80-da4d-4785-9f43-bc1261031dc6,241d5c6e-06c7-491b-b23e-f8d6ddc0240a,Amy Fernandez,42,"8688 Austin Fork Suite 912
+East Brittanyville, WV 82339",AFiobiqzxrfh,Motorola,44,10/27/2020 5:45,"[0, 1]",heart,positive,60
+98,356fff80-da4d-4785-9f43-bc1261031dc6,8f41c07f-db4f-44f3-ae81-1f99cee047eb,Kristi Mccarthy,2,"5687 Wilson Harbors Suite 763
+Lake Robert, FL 22223",KM@gmail.com,Motorola,68,10/15/2020 9:11,"['technology', 'culture', 'veganism']",scared,negative,15
+99,356fff80-da4d-4785-9f43-bc1261031dc6,2ef20e99-8be8-4ab6-a817-83991f7a0fa3,Antonia Witt,7,"7813 David Lights
+Riceton, MI 36593",AW@gmail.com,Microsoft,82,5/7/2021 9:16,"['food', 'veganism', 'soccer', 'travel']",heart,positive,60
+100,356fff80-da4d-4785-9f43-bc1261031dc6,0c5b0547-820a-4beb-832e-3162f74ccfa7,Rebecca Morrison,17,"000 Melissa Fields
+Michelleview, AR 95265",RMnemqyjpmju,Motorola,53,9/16/2020 8:39,['tennis'],hate,negative,5
+101,356fff80-da4d-4785-9f43-bc1261031dc6,de1d478e-3552-4223-b039-d3086cc485ec,Robert Sommer,17,"8748 Lewis Via Suite 013
+Robertfort, TN 84094",RS@gmail.com,Motorola,21,10/29/2020 15:38,"['cooking', 'education']",indifferent,neutral,20
+103,01ab84dd-6364-4236-abbb-3f237db77180,f9ecf6a2-8402-43b3-bf22-8cd54394ea02,David Pujols,28,"282 David Cliffs
+Lake Savannah, WA 21990",DP@gmail.com,Huawei,56,5/24/2021 18:03,['veganism'],scared,negative,15
+105,cf1e8c1a-23eb-4426-9f58-002fb1b53e91,b7fb2028-4cfc-440b-a1b1-4101f12f7abe,Michael Greene,9,"00059 Christina Tunnel
+Blakefort, VA 87906",MG@gmail.com,Motorola,19,2/25/2021 20:02,"['animals', 'science']",interested,positive,30
+106,cf1e8c1a-23eb-4426-9f58-002fb1b53e91,2546684f-0387-4c46-b19b-9a5ddb2ef221,John Baker,7,"9062 Janice Fords Suite 579
+Taraside, MT 20707",JB@gmail.com,Google,93,5/2/2021 3:45,"['travel', 'fitness', 'healthy eating', 'public speaking']",hate,negative,5
+108,cf1e8c1a-23eb-4426-9f58-002fb1b53e91,766886c9-a63a-4446-bb4a-07d611b3b212,Lance Spencer,24,"7406 Ray Ports
+East Adamview, CA 79808",LSdtqsemuido,Google,63,2/15/2021 13:06,"['animals', 'studying', 'dogs', 'animals']",peeking,neutral,35
+109,cf1e8c1a-23eb-4426-9f58-002fb1b53e91,d16ed6bf-d35e-463b-92b0-393ee67e220c,James Bakerville,7,"573 Laura Fords
+New Joshuastad, AL 08063",JB@gmail.com,Samsung,30,11/4/2020 21:25,"['food', 'healthy eating', 'studying', 'public speaking']",dislike,negative,10
+110,cf1e8c1a-23eb-4426-9f58-002fb1b53e91,4172c4ea-8fd9-4e50-bd2c-7020eab84f34,Michael Fernandez,19,"411 Santana Center Apt. 401
+Port Rodney, LA 14985",MF@gmail.com,Apple,49,6/23/2020 22:12,"['animals', 'food', 'technology', 'animals']",love,positive,65
+111,cf1e8c1a-23eb-4426-9f58-002fb1b53e91,132b1407-16fa-48f8-8112-3e426974bbb7,Leonard Lavigne,11,"739 Charles Garden
+Michellemouth, KS 19336",LL@gmail.com,Google,17,2/16/2021 4:01,"['healthy eating', 'cooking']",cherish,positive,70
+112,cf1e8c1a-23eb-4426-9f58-002fb1b53e91,9bb5d084-0b28-4352-8591-5b5a4efecdf0,Robert Bijou,19,"8534 Haynes Union
+South Jason, TX 26599",RB@gmail.com,thbhn,4,1/3/2021 8:44,"['tennis', 'fitness', 'healthy eating', 'animals']",interested,positive,30
+113,cf1e8c1a-23eb-4426-9f58-002fb1b53e91,49da0743-cb4d-4c84-b6a2-537bbe7256d1,Susan Homes,41,"7536 Thompson Road Suite 148
+West Bobby, MN 75941",SHjcmuixgwni,Samsung,30,11/25/2020 12:45,"['soccer', 'travel']",adore,positive,72
+116,cf1e8c1a-23eb-4426-9f58-002fb1b53e91,4c0558bc-b0d9-44b0-8b70-5fc6acb6c362,Henry Mester,43,"45078 Darrell Prairie
+Lake Amanda, MT 73755",HM@gmail.com,Apple,34,1/18/2021 13:39,"['animals', 'science', 'education', 'animals']",cherish,positive,70
+117,cf1e8c1a-23eb-4426-9f58-002fb1b53e91,3205ad12-726a-4b65-a15a-1a899a9d310b,Deborah Jackson,13,"PSC 4430, Box 8569
+APO AP 15240",DJ@gmail.com,HTC,21,1/6/2021 0:35,"['science', 'dogs', 'public speaking']",indifferent,neutral,20
+118,cf1e8c1a-23eb-4426-9f58-002fb1b53e91,1f81cb56-5258-4f9e-ab2c-4dfb581b44cb,Dennis Salazar,22,"39526 Perry Courts
+Lake Christopherside, WA 40989",DS@gmail.com,Samsung,49,5/14/2021 14:33,['cooking'],adore,positive,72
+120,cf1e8c1a-23eb-4426-9f58-002fb1b53e91,80fc5e28-17ac-4e79-b9df-0d500abbe8b5,Ernestine Tart,43,"949 Denise Pass Suite 513
+North Michael, NV 43667",ET@gmail.com,Google,88,7/21/2020 2:12,"['healthy eating', 'cooking', 'culture']",peeking,neutral,35
+121,cf1e8c1a-23eb-4426-9f58-002fb1b53e91,48bed4d7-0329-472c-96d9-b23a103eb834,Mark Henderson,36,"7091 Lara Causeway Suite 453
+New Lauren, RI 21033",MH@gmail.com,Microsoft,48,5/26/2021 6:09,"['cooking', 'veganism', 'tennis']",dislike,negative,10
+123,cf1e8c1a-23eb-4426-9f58-002fb1b53e91,0c347562-ce55-450b-91ab-0707662b36f5,Julia Rivera,35,"371 Crawford Cliffs
+Welchmouth, LA 19265",JR@gmail.com,HTC,78,12/7/2020 22:50,"['animals', 'culture']",intrigued,positive,45
+125,cf1e8c1a-23eb-4426-9f58-002fb1b53e91,a6f003be-b0fd-4100-b4cc-f568a21b9745,Antonia Pereira,36,"63138 Karen Lane Suite 493
+New Karenborough, KY 56742",AP@gmail.com,Microsoft,7,9/1/2020 21:18,"['public speaking', 'healthy eating', 'healthy eating']",peeking,neutral,35
+126,cf1e8c1a-23eb-4426-9f58-002fb1b53e91,d27670c9-f85e-43e0-80a7-122cba908f10,Douglas Jones,44,"Unit 8764 Box 5726
+DPO AE 56727",DJ@gmail.com,Huawei,20,5/10/2021 22:07,"['dogs', 'dogs', 'cooking', 'soccer']",adore,positive,72
+130,3f8590c7-6ab2-4973-805a-90cdec355f05,1e571af5-1796-424c-b744-a925897d44a3,Wanda Gross,15,"09740 Jackson Park Apt. 253
+Wilsonburgh, CA 24477",WG@gmail.com,Google,86,1/24/2021 0:38,"['travel', 'food', 'healthy eating']",intrigued,positive,45
+133,3f8590c7-6ab2-4973-805a-90cdec355f05,77a7b81e-96f7-4e5a-92c7-5b07f7333913,Joyce Sanders,5,"308 Joanna Fort
+South Nicholasfort, AZ 95072",JS@gmail.com,Samsung,2,12/23/2020 4:11,"['cooking', 'travel']",heart,positive,60
+135,3f8590c7-6ab2-4973-805a-90cdec355f05,dbacabf8-7ebd-4f22-a261-59d8dad306f1,Maxine Wilson,6,"00530 Harvey Trace Suite 135
+Youngborough, NM 49274",MW@gmail.com,Huawei,9,3/28/2021 23:25,"['tennis', 'culture', 'technology', 'science']",like,positive,50
+136,3f8590c7-6ab2-4973-805a-90cdec355f05,c43c2351-9591-4122-acdd-b521723d7292,Gregory Rosales,39,"0065 Conner Falls Apt. 432
+Billyton, MD 48708",GR@gmail.com,Google,81,9/16/2020 7:33,"['veganism', 'travel', 'cooking', 'food']",peeking,neutral,35
+138,3f8590c7-6ab2-4973-805a-90cdec355f05,8dda1a41-9e57-4944-bd36-18c0ac343b13,Dinah Kelly,2,"Unit 4550 Box 8148
+DPO AP 47371",DK@gmail.com,Huawei,4,3/6/2021 5:23,"['education', 'veganism', 'animals']",heart,positive,60
+139,3f8590c7-6ab2-4973-805a-90cdec355f05,10f311c3-f547-4260-8c0e-a155008b7936,James Moore,18,"023 Joshua Mountains Apt. 952
+Port Stephanie, NY 87638",JM@gmail.com,Samsung,7,1/13/2021 23:35,"['cooking', 'healthy eating', 'soccer']",disgust,negative,0
+140,3f8590c7-6ab2-4973-805a-90cdec355f05,37867a23-d07b-4990-8fa8-d694cf7d3b1b,Kera Delarosa,34,"7465 Sanchez Rapids
+Raymondfurt, MN 66351",KD@gmail.com,Apple,77,9/6/2020 22:35,"['soccer', 'cooking', 'cooking', 'healthy eating']",want,positive,70
+141,3f8590c7-6ab2-4973-805a-90cdec355f05,1e6db00c-22dd-4ae9-80e3-95f7a88b18b8,Paul Wiese,10,"226 Kristine Glen
+Gibbsshire, SD 36642",PW@gmail.com,Motorola,71,6/24/2020 9:31,"['animals', 'technology', 'technology', 'soccer']",interested,positive,30
+142,3f8590c7-6ab2-4973-805a-90cdec355f05,9e9cf8e7-6731-47da-bc0f-3a487e835586,William Taylor,43,"9842 Elizabeth Curve
+Richton, ND 81103",WT@gmail.com,Apple,80,2/7/2021 21:39,"['tennis', 'science', 'technology']",hate,negative,5
+143,3f8590c7-6ab2-4973-805a-90cdec355f05,e43acf25-fcfb-4dbf-bc8c-ccbe16c329e7,Lloyd Golden,7,"9881 Evans Mission Suite 442
+Garyshire, WA 20202",LG@gmail.com,Huawei,50,1/21/2021 18:28,"['healthy eating', 'healthy eating', 'soccer']",intrigued,positive,45
+144,3f8590c7-6ab2-4973-805a-90cdec355f05,bfe23c39-f814-4282-b0f7-506cd8295b8a,Lisa Kreiter,15,"658 Mcguire Forges Apt. 563
+East Heatherburgh, WI 31780",LK@gmail.com,Google,77,2/27/2021 0:21,['public speaking'],dislike,negative,10
+145,3f8590c7-6ab2-4973-805a-90cdec355f05,de39bbda-66a8-4c52-835a-7a104cf7f081,William Lewis,34,"71357 Jonathan Via
+Garymouth, MN 09490",WL@gmail.com,Motorola,98,8/22/2020 12:06,"['public speaking', 'travel', 'education']",worried,negative,12
+146,3f8590c7-6ab2-4973-805a-90cdec355f05,5a1ab9a3-1983-4021-9557-d3700a276746,Laura Walker,3,"4030 Parker Alley Suite 043
+Port Scott, CA 77383",LWsvedxnkdfr,Apple,72,8/3/2020 6:29,"['science', 'food', 'culture', 'healthy eating']",cherish,positive,70
+151,3f8590c7-6ab2-4973-805a-90cdec355f05,596342af-6379-4551-8379-f4b805f9d576,Dale Ordman,37,"242 Robinson Fields Suite 501
+Goodstad, OH 93845",DO@gmail.com,HTC,72,3/2/2021 22:47,"['soccer', 'cooking', 'studying', 'public speaking']",scared,negative,15
+152,3f8590c7-6ab2-4973-805a-90cdec355f05,939dbcf5-024b-4e63-9e7e-2f15c8b346ba,Stanley Gough,19,"5595 Acevedo Lodge
+Markmouth, NJ 03458",SG@gmail.com,Google,60,3/31/2021 9:48,"['education', 'tennis']",indifferent,neutral,20
+153,3f8590c7-6ab2-4973-805a-90cdec355f05,a6133f47-5586-434e-8be1-1e7122db1c0e,Lisa Kemp,40,"974 Oliver Mountain
+North Richardport, UT 44941",LK@gmail.com,Microsoft,26,6/14/2021 13:44,"['studying', 'culture', 'travel', 'public speaking']",interested,positive,30
+155,3f8590c7-6ab2-4973-805a-90cdec355f05,740a4abd-187d-4783-990b-161c52fb5f86,Cherie Scheuer,35,"40960 Shaffer Extensions Suite 928
+Perezberg, MD 28093",CS@gmail.com,Samsung,4,2/11/2021 3:51,"['fitness', 'animals']",scared,negative,15
+159,3f8590c7-6ab2-4973-805a-90cdec355f05,6178d76a-af2e-4453-93ee-02ca23ed3fdc,Jose Hughes,29,"PSC 7480, Box 4771
+APO AE 82831",JH@gmail.com,Apple,23,9/26/2020 18:43,"['cooking', 'cooking', 'cooking']",worried,negative,12
+160,3f8590c7-6ab2-4973-805a-90cdec355f05,3a752edf-f723-46a5-bffb-4a9ed6475546,Eli Anderson,21,"5880 Julie Road
+West Holly, AZ 85825",EA@gmail.com,Samsung,24,11/25/2020 13:01,"['studying', 'technology', 'culture']",scared,negative,15
+161,3f8590c7-6ab2-4973-805a-90cdec355f05,79acce4b-b991-4a68-b762-d496686a4f32,Justin Tam,41,"509 Haynes Road Suite 508
+Farleyshire, OK 21475",JT@gmail.com,Google,34,7/11/2020 5:51,['healthy eating'],heart,positive,60
+162,3f8590c7-6ab2-4973-805a-90cdec355f05,80c36ce2-2cef-4a47-a563-d2a60a2b1825,James Bradley,10,"85242 Elizabeth Bridge Apt. 195
+Espinozaville, DC 50054",JB@gmail.com,Samsung,16,3/19/2021 16:23,"['culture', 'studying', 'education']",heart,positive,60
+163,3f8590c7-6ab2-4973-805a-90cdec355f05,73a9e869-62a6-4508-b146-20dc9de19276,Michael Bowman,7,"2856 Miller Path
+Vickifurt, ID 57842",MB@gmail.com,Microsoft,19,10/11/2020 18:31,['public speaking'],interested,positive,30
+165,3f8590c7-6ab2-4973-805a-90cdec355f05,192a526b-4952-4bda-b659-4661dab12716,Eloise Curry,34,"24127 Weaver Pines Apt. 640
+New Moniqueville, CA 58927",EC@gmail.com,Apple,26,10/1/2020 3:35,"['healthy eating', 'healthy eating']",want,positive,70
+168,3f8590c7-6ab2-4973-805a-90cdec355f05,89572273-761e-46f3-8b99-1689d98aac90,William Shatley,9,"Unit 8924 Box 8191
+DPO AP 75694",WS@gmail.com,Samsung,7,10/17/2020 11:46,"['dogs', 'public speaking', 'animals', 'soccer']",hate,negative,5
+170,3f8590c7-6ab2-4973-805a-90cdec355f05,4bcb2c2e-36ed-4d5d-90a1-440993e9f6d2,John Emery,1,"6209 Ashley Ridge Apt. 844
+West Guy, SD 42327",JE@gmail.com,Apple,52,2/1/2021 2:40,"['animals', 'veganism']",love,positive,65
+171,3f8590c7-6ab2-4973-805a-90cdec355f05,93dd80c0-4ff2-42ed-9949-1621b0a68c63,Linda Weissgerber,42,"Unit 1015 Box 5864
+DPO AA 10815",LW@gmail.com,HTC,57,1/30/2021 9:36,"['culture', 'fitness', 'food', 'veganism']",adore,positive,72
+173,e5490118-90d5-4572-ab1c-1fbc87b8d9ca,41cd692a-be3c-4acd-a2c8-184586bdc180,Lawrence Hall,42,"755 John Wells
+Lake Kimberly, AL 50065",LH@gmail.com,Motorola,62,3/31/2021 15:24,"['education', 'tennis', 'food']",want,positive,70
+174,e5490118-90d5-4572-ab1c-1fbc87b8d9ca,0f1f6aef-b094-4b4d-b6b6-412ebc42c12b,Daniel Beede,34,"8639 Gary Springs
+Ronaldview, HI 08179",DB@gmail.com,Google,18,2/5/2021 17:00,"['healthy eating', 'public speaking', 'soccer']",super love,positive,75
+175,e5490118-90d5-4572-ab1c-1fbc87b8d9ca,7bf3ce80-784e-42a0-b06a-dbbd1e31a9b7,Norma George,8,"76066 Darren Village
+Port Tammie, MI 63748",NG@gmail.com,HTC,58,2/19/2021 16:29,['dogs'],heart,positive,60
+176,e5490118-90d5-4572-ab1c-1fbc87b8d9ca,6fd58dea-315a-4ab2-8023-424a6ff455cd,Elaine Brown,28,"87776 Rachel Plains Suite 992
+Port Williamville, OH 33676",EB@gmail.com,sbnnz,73,7/25/2020 0:00,"['food', 'tennis']",worried,negative,12
+178,0bedca96-fb76-4287-a83c-17330ed39cce,68724f58-bc4d-4ab0-a4e1-60cdd5e95e7d,Harold Holbert,33,"54378 Ariana Union Suite 900
+Port Bobbyberg, MI 56741",HH@gmail.com,Microsoft,57,7/13/2020 2:38,"['public speaking', 'cooking', 'science']",adore,positive,72
+179,0bedca96-fb76-4287-a83c-17330ed39cce,91bec0ab-a8d4-421e-b333-e511c7c6f9a0,Shela Phifer,1,"2589 Lee Mission Apt. 819
+Port Jamesborough, ME 21958",SP@gmail.com,Apple,58,1/13/2021 13:11,"['dogs', 'public speaking', 'culture', 'veganism']",indifferent,neutral,20
+180,0bedca96-fb76-4287-a83c-17330ed39cce,375985a6-ae79-43d2-b7c6-b182d83f1eaf,Jackie Jones,31,"7339 Harris Corner
+Vincentfurt, LA 30436",JJ@gmail.com,Google,27,1/2/2021 16:46,"['veganism', 'fitness', 'travel']",worried,negative,12
+182,0bedca96-fb76-4287-a83c-17330ed39cce,ded166ee-173b-4a56-bc6d-464c35709670,Susan Hopp,4,"Unit 2127 Box 7084
+DPO AP 47768",SH@gmail.com,Motorola,91,8/25/2020 19:18,"['animals', 'healthy eating', 'culture', 'culture']",want,positive,70
+183,0bedca96-fb76-4287-a83c-17330ed39cce,1582dac6-ebec-43ed-a34a-1a202ca72627,Marguerite Mccoy,0,"60083 Bishop Garden
+Robertstad, CA 11888",MM@gmail.com,Google,88,2/1/2021 0:15,['animals'],hate,negative,5
+184,0bedca96-fb76-4287-a83c-17330ed39cce,c07fd88f-9e7b-47eb-8477-8fcbffb7c5c8,Mary Stassi,11,"75924 Fowler Summit
+Portermouth, NE 46119",MS@gmail.com,HTC,97,6/4/2021 14:36,"['healthy eating', 'veganism']",love,positive,65
+185,0bedca96-fb76-4287-a83c-17330ed39cce,80e03bc0-fc8f-475b-a4dd-870844b7a313,Juanita Williams,20,"48921 Elizabeth Locks Apt. 871
+Lindaborough, MS 40378",JW@gmail.com,Motorola,29,8/19/2020 13:38,"['science', 'education']",adore,positive,72
+188,0bedca96-fb76-4287-a83c-17330ed39cce,0ce03276-e538-4c96-bcae-9844fb0628ac,Oliver Kirby,12,"49322 Valdez Creek
+New Christineton, WI 36487",OK@gmail.com,Apple,69,8/15/2020 18:16,"['food', 'veganism', 'veganism', 'education']",like,positive,50
+189,0bedca96-fb76-4287-a83c-17330ed39cce,3a80467c-0f1f-49ca-b904-1938ea2177a9,Evelina Pena,26,"83885 Ferguson Overpass
+New Ericville, CT 88461",EP@gmail.com,Samsung,27,11/26/2020 13:42,['veganism'],love,positive,65
+191,b18cb63f-4c8e-44ee-a47f-541e95191d11,e206e31b-5f85-4964-b6ea-d7ee5324def1,Jennifer Bjorkman,31,"18111 Jones Spurs Suite 756
+New Lauren, PA 29244",JB@gmail.com,Apple,10,4/14/2021 0:56,['animals'],want,positive,70
+192,b18cb63f-4c8e-44ee-a47f-541e95191d11,427fa55b-7f49-4981-bcd7-59fee8efb512,Perry North,27,"0719 Ronald Ports
+Theresaland, IL 26004",PN@gmail.com,HTC,15,7/21/2020 21:27,['science'],indifferent,neutral,20
+193,b18cb63f-4c8e-44ee-a47f-541e95191d11,5c433d28-dfb7-4456-a468-dc3705147ce0,Kory Jacobs,5,"7034 Griffin Trail
+West Rebeccaport, ND 25874",KJ@gmail.com,Motorola,88,3/29/2021 6:57,"['culture', 'culture', 'culture', 'animals']",dislike,negative,10
+194,b18cb63f-4c8e-44ee-a47f-541e95191d11,56e65b5b-e1b4-4f67-b596-e75bf103783b,Helen Carter,35,"989 Michelle Rapids Apt. 826
+New Alyssabury, AK 36821",HC@gmail.com,Microsoft,17,5/20/2021 16:11,"['healthy eating', 'culture', 'fitness']",want,positive,70
+195,b18cb63f-4c8e-44ee-a47f-541e95191d11,08c64787-e47b-4a7f-b00b-5590eb5fbc3a,Sun Edwards,27,"Unit 4373 Box 3248
+DPO AA 01188",SE@gmail.com,Apple,85,11/2/2020 6:09,"['soccer', 'veganism']",like,positive,50
+196,b18cb63f-4c8e-44ee-a47f-541e95191d11,094fbe49-da84-4445-9d28-7fc5f593f5ad,Susan Dodd,36,"682 Michelle Forge Apt. 257
+Port Brandon, WY 73810",SD@gmail.com,HTC,35,10/24/2020 15:37,"['studying', 'science', 'veganism', 'public speaking']",indifferent,neutral,20
+197,b18cb63f-4c8e-44ee-a47f-541e95191d11,a81378a5-58de-4631-b2b1-3eca765f68c6,Sonia Durham,5,"2004 Chelsea Port
+Amandatown, ID 77468",SD@gmail.com,Huawei,29,9/7/2020 14:42,['education'],heart,positive,60
+199,b18cb63f-4c8e-44ee-a47f-541e95191d11,49f49bcf-17fe-4edd-990d-16c3d1df931b,Melvin Powell,39,"42707 Kim Summit Suite 300
+Port Tiffanychester, MI 85051",MP@gmail.com,Samsung,45,1/7/2021 14:08,"['public speaking', 'veganism']",adore,positive,72
+201,b18cb63f-4c8e-44ee-a47f-541e95191d11,b596e7d8-dd3f-4125-8b99-4bf2283657cd,James Rowley,38,"093 Jessica Hollow
+East Robert, MO 02206",JR@gmail.com,Huawei,10,3/27/2021 4:56,['cooking'],like,positive,50
+203,b18cb63f-4c8e-44ee-a47f-541e95191d11,104c4dcb-70d5-4d87-b5b5-8b67205891fe,Anita Gilliam,7,"8332 Timothy Run Apt. 980
+Martinfurt, NY 85874",AG@gmail.com,Huawei,6,8/22/2020 1:25,"['fitness', 'culture', 'cooking', 'studying']",cherish,positive,70
+204,b18cb63f-4c8e-44ee-a47f-541e95191d11,b6fd2140-f8b9-498a-a07f-0dc9986736c6,Hazel Eisenhauer,40,"76915 Ayers Wells Suite 136
+Thomasville, TX 41747",HE@gmail.com,Google,32,6/14/2021 11:45,"['soccer', 'fitness', 'public speaking', 'education']",peeking,neutral,35
+205,b18cb63f-4c8e-44ee-a47f-541e95191d11,fa16aabb-fac3-4310-b19c-ce7021eb825b,Helen Wynn,33,"10902 Roberts Forge Apt. 632
+Christopherville, SC 10981",HW@gmail.com,Apple,58,7/15/2020 19:28,"['animals', 'travel', 'education', 'science']",worried,negative,12
+206,b18cb63f-4c8e-44ee-a47f-541e95191d11,26c6734f-42b6-48f8-a08e-e1c3a79019d0,Kerry Flores,41,"9597 Guzman Bridge Apt. 326
+West Veronicaton, SD 07093",KF@gmail.com,HTC,35,3/21/2021 14:39,"['cooking', 'animals']",intrigued,positive,45
+208,b18cb63f-4c8e-44ee-a47f-541e95191d11,8af596f3-c67c-4f40-a0cc-e258e730a8f5,Kenneth Meyn,4,"2926 Louis Summit Suite 605
+Justinton, NM 68686",KM@gmail.com,Motorola,87,4/24/2021 6:56,"['fitness', 'science', 'animals']",cherish,positive,70
+209,b18cb63f-4c8e-44ee-a47f-541e95191d11,3f218ab6-a288-4ee8-affc-3d02a9cbff5f,Judy Bailey,29,"066 Shane Trail Apt. 030
+Port John, NE 90720",JB@gmail.com,Microsoft,8,9/30/2020 14:05,['food'],heart,positive,60
+212,b18cb63f-4c8e-44ee-a47f-541e95191d11,6fb7ead6-71f3-4f57-94bd-18111fbc5e1a,Maria Kim,41,"3104 Wilkins Fields
+Lake Anthonystad, SC 28577",MK@gmail.com,HTC,92,1/31/2021 13:48,"['education', 'science', 'science', 'education']",scared,negative,15
+214,b18cb63f-4c8e-44ee-a47f-541e95191d11,85503a94-e733-486e-989e-12ff9b59f2d3,Doyle Miller,38,"72389 Adams Turnpike
+North Tara, IA 95679",DM@gmail.com,HTC,50,5/27/2021 1:44,['animals'],disgust,negative,0
+216,b18cb63f-4c8e-44ee-a47f-541e95191d11,9b8a3e97-eee6-4de5-ab88-e00d2c0db6b9,Janet Bolen,6,"5939 Crawford Islands Apt. 775
+Reedmouth, GA 72339",JB@gmail.com,Google,39,7/14/2020 4:36,"['dogs', 'soccer']",adore,positive,72
+217,b18cb63f-4c8e-44ee-a47f-541e95191d11,0871bb31-3d6e-4e4c-ab19-95a262cac0d4,Jose Pankratz,2,"112 Silva Station
+Port Sheilafort, IA 35620",JP@gmail.com,Samsung,14,7/15/2020 16:03,['science'],dislike,negative,10
+218,b18cb63f-4c8e-44ee-a47f-541e95191d11,2bd9c167-e06c-47c1-a978-3403d6724606,Hazel Neville,28,"42350 Wilson Turnpike Suite 472
+Mendezmouth, VT 50550",HN@gmail.com,Apple,90,10/8/2020 17:23,"['culture', 'healthy eating']",like,positive,50
+221,b18cb63f-4c8e-44ee-a47f-541e95191d11,334e2fe8-6f2c-424c-8ed5-12c99f048722,Roberto Mcnair,34,"41639 Roach Union Suite 767
+Amandahaven, MI 76329",RM@gmail.com,Google,19,7/9/2020 8:58,"['food', 'public speaking']",intrigued,positive,45
+223,b18cb63f-4c8e-44ee-a47f-541e95191d11,a1290f9f-af93-432d-be86-65840470c621,Jamie Shook,32,"367 Jonathan Throughway Apt. 825
+Williammouth, MI 89519",JS@gmail.com,Samsung,22,11/20/2020 13:18,"['fitness', 'animals']",worried,negative,12
+224,b18cb63f-4c8e-44ee-a47f-541e95191d11,3b751c3f-bab7-4b2b-a95f-10d57c02aa6a,Dena Brandon,13,"545 Decker Stream
+South Antonioville, AK 42672",DB@gmail.com,Huawei,33,5/29/2021 21:34,"['education', 'technology', 'fitness', 'cooking']",like,positive,50
+225,b18cb63f-4c8e-44ee-a47f-541e95191d11,561b08d6-1084-4115-933d-db3e60edfd8b,Alma West,12,"88245 Alexander Road
+Garnertown, MD 84931",AW@gmail.com,Samsung,59,2/22/2021 2:48,"['soccer', 'soccer']",indifferent,neutral,20
+226,b18cb63f-4c8e-44ee-a47f-541e95191d11,4ce3f877-96ea-4a37-8107-1176126d9d97,Carmen Wynne,40,"977 Bailey Parkways Suite 546
+West Davidburgh, MS 03949",CW@gmail.com,Motorola,46,1/7/2021 18:39,"['soccer', 'dogs', 'public speaking']",scared,negative,15
+227,b18cb63f-4c8e-44ee-a47f-541e95191d11,33a8d02a-e255-4ffe-9d90-2df8c2914077,Krystal Pauling,37,"2489 Pierce Ville Suite 169
+Barrymouth, AR 44534",KP@gmail.com,Samsung,31,10/1/2020 15:10,"['dogs', 'public speaking', 'studying', 'food']",adore,positive,72
+228,b18cb63f-4c8e-44ee-a47f-541e95191d11,7be6e8bc-39b0-4035-ac93-1df8fd7e1928,Barbara Porter,2,"84045 James Shores
+Lake Robert, NE 39700",BP@gmail.com,Huawei,85,11/21/2020 8:24,"['studying', 'cooking', 'tennis']",hate,negative,5
+229,b18cb63f-4c8e-44ee-a47f-541e95191d11,1545ddaf-2b75-4143-82fe-b88966aee4fb,Donald Smart,17,"09458 Brittany Mall
+Levinemouth, MD 50169",DS@gmail.com,Huawei,13,4/15/2021 13:50,"['culture', 'veganism']",scared,negative,15
+236,5118e9c5-1377-4cc5-a486-65b35b7b7b76,8d3cd87d-8a31-4935-9a4f-b319bfe05f31,Laura Rodriguez,13,"1950 Michael Mill
+Lindashire, KY 08693",LR@gmail.com,Microsoft,10,7/28/2020 7:01,"['education', 'studying']",intrigued,positive,45
+237,5118e9c5-1377-4cc5-a486-65b35b7b7b76,311d7214-711f-4f66-bc9a-e835fa54ffb6,Sandra Gutierrez,10,"6624 Russell Shoals
+New Michele, WY 56469",SG@gmail.com,Google,45,10/25/2020 2:39,"['dogs', 'studying']",super love,positive,75
+238,5118e9c5-1377-4cc5-a486-65b35b7b7b76,57617bf3-b7d0-49cb-8d88-7d8346656397,Alexander Danker,30,"5969 Brian Dale
+Lopezbury, NY 43477",AD@gmail.com,HTC,15,7/5/2020 3:37,"['healthy eating', 'culture']",worried,negative,12
+239,5118e9c5-1377-4cc5-a486-65b35b7b7b76,aab5b5d2-682b-4b27-89ae-cf7803f76786,Rhonda Davis,6,"782 Jack Lodge Apt. 060
+Browntown, HI 75958",RD@gmail.com,Samsung,52,4/28/2021 15:16,"['animals', 'education', 'healthy eating', 'travel']",cherish,positive,70
+240,5118e9c5-1377-4cc5-a486-65b35b7b7b76,d4dc38d4-5c80-428f-95da-b746a275531c,Timothy Martin,30,"PSC 9080, Box 4772
+APO AE 11277",TM@gmail.com,Microsoft,8,1/31/2021 0:54,"['education', 'culture', 'food']",indifferent,neutral,20
+241,5118e9c5-1377-4cc5-a486-65b35b7b7b76,330ded4b-db65-485a-80a4-6b3bffd33067,Zoe Smith,42,"4968 Julia Underpass Apt. 278
+Candiceside, DC 70470",ZS@gmail.com,Google,32,8/29/2020 11:37,"['dogs', 'veganism', 'soccer', 'travel']",adore,positive,72
+242,5118e9c5-1377-4cc5-a486-65b35b7b7b76,7240bf9b-7424-4c04-aab1-1d7aa39964d9,Jerry Keeton,10,"727 Sarah Trail
+Christineburgh, NM 22196",JK@gmail.com,Motorola,30,10/15/2020 12:09,"['dogs', 'soccer', 'dogs', 'veganism']",intrigued,positive,45
+245,5118e9c5-1377-4cc5-a486-65b35b7b7b76,b1954833-b6a5-4c6c-9709-80686b7768c4,Jacob Mcwhite,16,"5371 Hodges Fords Apt. 787
+Hicksmouth, WY 94020",JM@gmail.com,Huawei,90,10/12/2020 9:40,"['healthy eating', 'fitness']",heart,positive,60
+246,5118e9c5-1377-4cc5-a486-65b35b7b7b76,9fbae7e6-65a9-4753-8db9-5f7855b6a540,Michele Calloway,23,"931 Martinez Walk Apt. 141
+Lake Cherylborough, WV 85477",MC@gmail.com,Apple,90,12/12/2020 12:22,"['soccer', 'animals', 'soccer']",want,positive,70
+249,5118e9c5-1377-4cc5-a486-65b35b7b7b76,d55f3314-96cc-4a5d-b650-f43f094cd3c3,Ruben Herring,36,"20863 Adams Turnpike Apt. 181
+Lake Michelle, OK 08049",RH@gmail.com,Google,50,12/22/2020 4:20,"['tennis', 'healthy eating', 'cooking', 'tennis']",love,positive,65
+250,5118e9c5-1377-4cc5-a486-65b35b7b7b76,4eed2f45-f040-4995-a60f-472af1ff379a,Larry Richards,9,"57211 Powell Ridges Suite 385
+Ronaldmouth, OK 64964",LR@gmail.com,Apple,56,11/7/2020 8:49,['soccer'],disgust,negative,0
+251,5118e9c5-1377-4cc5-a486-65b35b7b7b76,f3eb7ee0-7788-43a0-9686-1c399260b17e,Michael Kenoyer,39,"08535 Johnson Springs
+New Kevinstad, IN 80720",MK@gmail.com,HTC,15,4/17/2021 22:45,"['technology', 'food']",adore,positive,72
+258,0be59876-d70c-486c-8e0b-a06bef7a2cd6,87026ce7-fd0b-4b57-9126-d4bae2c1ee0e,Michelle Phillips,18,"619 Rachael Station Suite 901
+Seanhaven, NJ 34840",MP@gmail.com,Huawei,88,9/13/2020 11:24,"['travel', 'public speaking', 'animals', 'science']",cherish,positive,70
+259,0be59876-d70c-486c-8e0b-a06bef7a2cd6,9ce133df-bd87-4559-96d7-a402add824ca,Yen Bruton,16,"440 Morgan Groves
+Sharonmouth, NV 16890",YB@gmail.com,Samsung,36,1/28/2021 21:06,"['science', 'studying', 'culture', 'culture']",worried,negative,12
+260,0be59876-d70c-486c-8e0b-a06bef7a2cd6,17bc2431-754a-46e8-81e2-32820d3fc612,Brain Duckworth,23,"961 Hughes Station
+East Devon, DE 41780",BD@gmail.com,Microsoft,88,1/20/2021 1:15,"['animals', 'culture', 'healthy eating', 'soccer']",indifferent,neutral,20
+261,0be59876-d70c-486c-8e0b-a06bef7a2cd6,98411adf-cfc0-400d-aac8-e215571ef3f2,Ida Cantu,29,"67413 Lawrence Valleys
+South Victortown, PA 70424",IC@gmail.com,Huawei,91,9/3/2020 1:15,"['healthy eating', 'public speaking', 'food']",super love,positive,75
+262,0be59876-d70c-486c-8e0b-a06bef7a2cd6,877ce8ba-564f-4b86-9cdc-94a93d9a7997,Javier Johnson,3,"29756 Frances Inlet
+Sarahborough, NJ 69740",JJ@gmail.com,Apple,99,1/9/2021 10:46,"['soccer', 'culture', 'tennis', 'culture']",worried,negative,12
+263,0be59876-d70c-486c-8e0b-a06bef7a2cd6,242a3620-fc18-4120-ac72-37b0f3716879,Jim Whitehead,33,"37434 Farmer Motorway Apt. 569
+North Davidborough, SD 23685",JW@gmail.com,Microsoft,62,9/19/2020 22:29,"['public speaking', 'healthy eating']",indifferent,neutral,20
+264,0be59876-d70c-486c-8e0b-a06bef7a2cd6,108fc1be-9c15-440a-9cab-634c3f414dcc,Bill Nopper,24,"5969 Bond Plaza
+Carlburgh, SD 76175",BN@gmail.com,Motorola,60,5/29/2021 7:21,"['dogs', 'travel', 'technology']",super love,positive,75
+266,0be59876-d70c-486c-8e0b-a06bef7a2cd6,1879b698-1639-438e-a07e-ddd735f8d57c,Gregory Snow,17,"3728 David Station Suite 760
+East Joshuaview, PA 21804",GS@gmail.com,Apple,30,8/15/2020 12:27,['tennis'],intrigued,positive,45
+269,0be59876-d70c-486c-8e0b-a06bef7a2cd6,3eb6dad3-c017-4e77-8920-fbdea84b0acc,Doris Jenkins,29,"490 Jessica Radial
+Lake Connorton, CT 69222",DJ@gmail.com,HTC,49,3/29/2021 19:03,"['veganism', 'science']",scared,negative,15
+270,0be59876-d70c-486c-8e0b-a06bef7a2cd6,d1a89d23-7d17-4949-9e1a-637317141f3d,Noah Guilliam,14,"304 Sandra Streets
+Kimburgh, AR 30942",NG@gmail.com,Apple,98,7/29/2020 10:40,"['studying', 'public speaking']",scared,negative,15
+271,0be59876-d70c-486c-8e0b-a06bef7a2cd6,dab237a2-dcc9-4322-a9b6-b2d16ee38c78,Raymond Whitley,8,"01459 Ross Parkways Apt. 126
+Haynesshire, MT 71948",RW@gmail.com,HTC,21,5/8/2021 13:47,"['healthy eating', 'healthy eating']",hate,negative,5
+272,0be59876-d70c-486c-8e0b-a06bef7a2cd6,624db443-c716-4227-ac84-a6f7c3a59162,Victor Chapmon,17,"7894 Christopher Junction Suite 831
+North Shawnburgh, TX 17046",VC@gmail.com,Microsoft,21,11/6/2020 2:36,"['education', 'culture']",heart,positive,60
+273,0be59876-d70c-486c-8e0b-a06bef7a2cd6,4607d7b0-3313-49b8-9f73-5b8227fc5b67,Jason Roberts,10,"1827 Margaret Trace
+South Geoffreyton, RI 20288",JR@gmail.com,Google,90,7/25/2020 16:31,['cooking'],super love,positive,75
+274,0be59876-d70c-486c-8e0b-a06bef7a2cd6,40e643fb-369c-4ecb-beb7-810114f331fa,William Haynes,14,"46924 Scott Trafficway
+Dalemouth, SD 70346",WH@gmail.com,Huawei,78,12/4/2020 0:56,"['dogs', 'soccer']",worried,negative,12
+278,0be59876-d70c-486c-8e0b-a06bef7a2cd6,b841358a-d8ff-412e-b940-3a95fd31291b,John Arnaud,26,"USCGC Cunningham
+FPO AE 04893",JA@gmail.com,Apple,81,1/11/2021 6:02,['soccer'],heart,positive,60
+279,0be59876-d70c-486c-8e0b-a06bef7a2cd6,cad2d54d-9555-4dfe-bfcd-7a584895a002,Minnie Summerlin,19,"7586 Ashley Island Apt. 739
+East Timothyburgh, ND 03126",MS@gmail.com,HTC,40,2/28/2021 7:51,['education'],want,positive,70
+281,0be59876-d70c-486c-8e0b-a06bef7a2cd6,4fe1900d-5e78-41a3-88ed-18e6889c6c77,Wallace Nyberg,8,"325 Jennifer Brook
+Alyssamouth, TN 32854",WN@gmail.com,Samsung,48,5/5/2021 9:54,['food'],peeking,neutral,35
+283,0be59876-d70c-486c-8e0b-a06bef7a2cd6,6eb62858-f6f3-4846-8054-52df483979de,June Joseph,31,"89496 Webster Road Apt. 848
+West Meganshire, OK 40892",JJ@gmail.com,Motorola,55,10/15/2020 1:29,"['animals', 'public speaking']",heart,positive,60
+286,0be59876-d70c-486c-8e0b-a06bef7a2cd6,084eb113-0d87-4ae5-891b-2ec7f1e194a8,Crystal Nilson,4,"15499 Miguel Ridges Suite 922
+Hoffmanfort, IL 54149",CN@gmail.com,Microsoft,58,11/28/2020 2:11,"['education', 'dogs', 'education', 'soccer']",peeking,neutral,35
+289,0be59876-d70c-486c-8e0b-a06bef7a2cd6,fe0e2711-bad0-4a0a-90fa-b2d9e8c773a8,Melvin Wright,32,"369 Chelsea Plain
+Rebeccaport, MD 94455",MW@gmail.com,Motorola,6,2/14/2021 21:15,"['studying', 'food', 'travel']",super love,positive,75
+290,0be59876-d70c-486c-8e0b-a06bef7a2cd6,47def058-01cc-478f-9830-eaddcccac633,Peter Moree,22,"7445 Michael Prairie
+Jasonton, WY 09042",PM@gmail.com,Motorola,68,3/27/2021 20:07,"['fitness', 'veganism', 'dogs', 'fitness']",cherish,positive,70
+292,0be59876-d70c-486c-8e0b-a06bef7a2cd6,583f2bde-886d-4cf3-a5c4-7cb60cd25df3,Alan Moskowitz,1,"890 Mikayla Ferry
+Maryport, KY 28636",AM@gmail.com,Microsoft,14,11/9/2020 8:23,['food'],heart,positive,60
+294,0be59876-d70c-486c-8e0b-a06bef7a2cd6,d51a3403-8bab-4d88-af4f-a429c6d8c168,Alan Rice,3,"62581 Duran Unions Suite 459
+Nancyberg, RI 43155",AR@gmail.com,Apple,15,4/15/2021 13:23,"['technology', 'veganism', 'cooking', 'dogs']",hate,negative,5
+295,0be59876-d70c-486c-8e0b-a06bef7a2cd6,6e98e5c2-b7d7-4915-bb20-d01a42d29dee,William Cunningham,18,"495 Eddie Plains
+Hoganside, TN 74210",WC@gmail.com,Microsoft,77,8/16/2020 22:58,['travel'],peeking,neutral,35
+299,0be59876-d70c-486c-8e0b-a06bef7a2cd6,c1c53b8c-b6a8-4343-a369-4a0595a97807,Willie Green,11,"18871 Doyle Square Apt. 062
+Wrightport, SC 56127",WG@gmail.com,Samsung,58,12/3/2020 8:08,"['dogs', 'veganism', 'culture']",dislike,negative,10
+300,0be59876-d70c-486c-8e0b-a06bef7a2cd6,948f7e9d-49bb-4770-bc9d-cb3fb65cca15,Ila Buck,11,"2627 Stacy Trail Suite 425
+Anthonyhaven, NJ 89064",IB@gmail.com,Samsung,82,10/13/2020 16:31,"['soccer', 'studying', 'soccer']",disgust,negative,0
+301,0be59876-d70c-486c-8e0b-a06bef7a2cd6,f02267ef-8974-43f5-9a2f-03d2c8ec22ca,Gary Hines,42,"3055 Terry Port Apt. 195
+South Ashley, HI 86394",GH@gmail.com,Huawei,75,12/4/2020 10:04,"['animals', 'cooking', 'food', 'food']",want,positive,70
+304,0be59876-d70c-486c-8e0b-a06bef7a2cd6,a559688e-3f10-436f-a25e-8ad553eacb89,Kari Jones,28,"351 Bolton Avenue Suite 438
+Michaelport, OR 87388",KJ@gmail.com,Apple,19,7/23/2020 19:31,"['studying', 'tennis']",disgust,negative,0
+306,81abd65a-3b76-4574-a0a7-db6bf7184ae2,43dc107a-bd3f-4cfe-96f7-8d17ca485bc2,Ernest Pangallo,32,"537 Jessica Crescent
+East Christinafort, OR 26165",EP@gmail.com,Motorola,70,1/6/2021 6:08,['education'],love,positive,65
+307,81abd65a-3b76-4574-a0a7-db6bf7184ae2,f86853a2-acda-4319-a50c-03f014248042,James Manske,43,"18913 Curtis Union
+Perrystad, LA 97749",JM@gmail.com,HTC,32,10/21/2020 3:48,"['tennis', 'science', 'tennis', 'science']",worried,negative,12
+308,81abd65a-3b76-4574-a0a7-db6bf7184ae2,91dbe082-62c3-4bfd-9721-7c94be3a3d32,Kathy Mckeel,40,"2840 Brandon Groves
+Port Mary, CT 72674",KM@gmail.com,Google,98,2/23/2021 22:36,['fitness'],worried,negative,12
+309,81abd65a-3b76-4574-a0a7-db6bf7184ae2,66663a0d-856f-487f-a2a2-258af21ab3e5,Eva Fontenot,21,"489 Jackson Plaza Apt. 346
+Port Nicoleshire, CT 86594",EF@gmail.com,Apple,58,1/26/2021 1:00,"['healthy eating', 'science', 'public speaking']",super love,positive,75
+312,81abd65a-3b76-4574-a0a7-db6bf7184ae2,90898216-e580-46c0-8e79-f2df84a9676d,Elva Norris,43,"225 Fisher Extensions
+Port Lisashire, WI 44007",EN@gmail.com,Microsoft,82,10/31/2020 3:17,"['fitness', 'dogs', 'dogs', 'veganism']",worried,negative,12
+313,81abd65a-3b76-4574-a0a7-db6bf7184ae2,b3a84639-5a4f-4c97-8ea8-2ac49882e27a,Ruth Ortega,10,"1992 Christopher Forks Apt. 487
+Beckyborough, ME 48970",RO@gmail.com,HTC,86,2/20/2021 20:02,['fitness'],indifferent,neutral,20
+316,81abd65a-3b76-4574-a0a7-db6bf7184ae2,3e65775b-36e4-495d-9c45-28127fb3da5f,Richard Seago,38,"873 Jill Lane
+Romeroville, GA 20232",RS@gmail.com,Huawei,93,12/8/2020 13:12,"['soccer', 'travel', 'technology']",disgust,negative,0
+317,81abd65a-3b76-4574-a0a7-db6bf7184ae2,953cb190-5704-4926-adc2-057c6f3e3cb4,Mario Phelps,9,"3155 Kristy Forest Apt. 783
+East Aliciaside, NJ 76888",MP@gmail.com,Microsoft,95,11/4/2020 21:06,['animals'],scared,negative,15
+318,81abd65a-3b76-4574-a0a7-db6bf7184ae2,ad9f5c2f-aa30-4baf-b084-56b1a4b63b09,Roberta Harris,16,"3846 Maynard Estates Suite 429
+Andrewmouth, MD 84230",RH@gmail.com,Microsoft,6,8/24/2020 13:48,"['public speaking', 'technology', 'science']",scared,negative,15
+319,81abd65a-3b76-4574-a0a7-db6bf7184ae2,92423e9a-4e8c-49bc-be75-c819912696ce,Elida Jordon,20,"182 Robert Common Apt. 673
+Delgadoborough, CT 74711",EJ@gmail.com,Microsoft,0,1/5/2021 13:15,['technology'],disgust,negative,0
+320,81abd65a-3b76-4574-a0a7-db6bf7184ae2,1ebc46fa-edd3-4dec-bb45-c124daf83512,Robert Mierzejewski,28,"2857 Green Row
+West Elizabethville, TN 15511",RM@gmail.com,Microsoft,30,2/28/2021 9:21,"['soccer', 'culture', 'animals', 'soccer']",adore,positive,72
+321,81abd65a-3b76-4574-a0a7-db6bf7184ae2,052faed2-37ac-4a2c-ba6f-2657322e4fa5,Anna Despain,14,"93322 Marc Meadows
+West Christina, OK 19087",AD@gmail.com,Samsung,84,9/22/2020 4:09,['cooking'],dislike,negative,10
+322,81abd65a-3b76-4574-a0a7-db6bf7184ae2,317c70d5-fe65-4663-afb1-150108e0e55c,Berry Prosper,26,"2227 Jesse Plaza Suite 997
+Webbland, MS 23476",BP@gmail.com,Microsoft,76,11/8/2020 2:43,['animals'],disgust,negative,0
+323,81abd65a-3b76-4574-a0a7-db6bf7184ae2,03e3a23a-a77a-41da-9ecd-3f2ff9e5bc90,Ann Becker,33,"443 Chan View Suite 154
+Savagetown, DE 32530",AB@gmail.com,Apple,77,10/26/2020 11:48,['dogs'],love,positive,65
+324,81abd65a-3b76-4574-a0a7-db6bf7184ae2,db0066e1-83cc-43f3-990b-983010aa5370,Marion Stecklein,14,"1944 Gonzalez Cove
+South Jason, SD 65716",MS@gmail.com,Microsoft,35,11/4/2020 14:58,['soccer'],heart,positive,60
+327,81abd65a-3b76-4574-a0a7-db6bf7184ae2,07f4dcd0-2bf3-4f21-9da3-b054b511ae00,Darcel Smith,24,"51539 Sullivan Extensions Apt. 265
+South Travisland, FL 73790",DS@gmail.com,Samsung,91,6/17/2021 23:27,"['education', 'science', 'animals', 'public speaking']",intrigued,positive,45
+328,81abd65a-3b76-4574-a0a7-db6bf7184ae2,ed3494e3-695b-4068-a725-09c6cdf92d63,Mozelle Alligood,43,"230 House Road Apt. 693
+Parsonsfort, AK 22074",MA@gmail.com,Motorola,60,7/27/2020 23:54,"['public speaking', 'healthy eating', 'technology', 'public speaking']",intrigued,positive,45
+329,81abd65a-3b76-4574-a0a7-db6bf7184ae2,cafa0d07-63be-4b5b-bc7f-c4f4091d403d,Eleanor Reyes,41,"2074 Martin Island Suite 412
+Bryanton, MD 22137",ER@gmail.com,HTC,52,4/19/2021 1:45,"['science', 'education', 'tennis', 'science']",disgust,negative,0
+330,81abd65a-3b76-4574-a0a7-db6bf7184ae2,a94a7d87-65df-4c21-847a-0e8af6cb5c02,Kenneth Hage,31,"4831 Robert Inlet Apt. 480
+Bradleychester, SD 24116",KH@gmail.com,Motorola,62,10/5/2020 13:55,"['dogs', 'culture']",like,positive,50
+332,81abd65a-3b76-4574-a0a7-db6bf7184ae2,2ab641a8-6ad4-4d1a-8511-d87ff5346773,Kathy Johnson,39,"3272 Hall Camp Suite 066
+East Nathanborough, AL 79047",KJ@gmail.com,Huawei,53,2/25/2021 4:02,"['education', 'technology']",dislike,negative,10
+333,81abd65a-3b76-4574-a0a7-db6bf7184ae2,3663e3e6-3d5c-4ed9-a6af-1e680ec5f34b,Cordelia Reny,14,"00200 Anna Land
+North Hollyfurt, IL 03755",CR@gmail.com,Huawei,5,12/24/2020 22:31,"['soccer', 'travel']",heart,positive,60
+336,81abd65a-3b76-4574-a0a7-db6bf7184ae2,2129de92-ee91-425f-a854-07c553ee0b74,Donna Folsom,37,"USNV Newman
+FPO AE 24533",DF@gmail.com,Google,20,2/12/2021 4:23,"['science', 'animals', 'animals', 'food']",intrigued,positive,45
+337,81abd65a-3b76-4574-a0a7-db6bf7184ae2,15e325b1-c221-4bf8-8010-18d76b03646e,Brittany Miller,10,"654 Joseph Brooks Apt. 069
+West Richardmouth, AZ 86381",BM@gmail.com,HTC,23,8/31/2020 0:39,"['tennis', 'studying']",adore,positive,72
+338,81abd65a-3b76-4574-a0a7-db6bf7184ae2,a5c65404-5894-4b87-82f2-d787cbee86b4,Jaymie Hastings,5,"PSC 8837, Box 6590
+APO AE 71776",JH@gmail.com,Huawei,23,1/11/2021 8:47,"['technology', 'animals']",indifferent,neutral,20
+340,81abd65a-3b76-4574-a0a7-db6bf7184ae2,9a5aca53-6263-485a-bf77-e60c4608fd26,Timothy Crum,31,"2377 Nicholas Springs Apt. 503
+North Sara, MN 74761",TC@gmail.com,Apple,3,10/18/2020 12:49,"['science', 'public speaking', 'animals']",disgust,negative,0
+342,81abd65a-3b76-4574-a0a7-db6bf7184ae2,3956593b-7739-426a-b7a5-e841c95a5df9,Richard Uhlig,8,"36285 Matthew Lake
+Veronicaton, ND 33947",RU@gmail.com,Apple,57,2/11/2021 4:02,"['education', 'dogs']",super love,positive,75
+343,81abd65a-3b76-4574-a0a7-db6bf7184ae2,1bcc3c26-e82e-40f4-9d16-3311c8c1ddf6,Charles Mondesir,10,"USNS Bird
+FPO AE 07625",CM@gmail.com,Motorola,26,8/12/2020 23:43,"['travel', 'studying']",heart,positive,60
+347,81abd65a-3b76-4574-a0a7-db6bf7184ae2,31cfc138-cec0-4176-bd6d-79c4cadbb1d4,Timothy Call,27,"26351 Johnson Knoll
+Port Douglas, PA 11673",TC@gmail.com,Microsoft,35,6/8/2021 10:45,"['public speaking', 'travel', 'animals']",super love,positive,75
+348,81abd65a-3b76-4574-a0a7-db6bf7184ae2,0873e9a7-234a-4096-a92a-8dc7a03eb0c5,Robert Marco,32,"686 Jones Landing
+Bryanmouth, NH 32851",RM@gmail.com,Apple,54,10/18/2020 4:17,"['cooking', 'culture']",like,positive,50
+349,81abd65a-3b76-4574-a0a7-db6bf7184ae2,9210e8dd-d2a2-4ea7-8cbd-f37e1e8efea5,Leroy Whitmore,2,"74809 Kimberly Circle Apt. 339
+Knightbury, IN 44194",LW@gmail.com,Microsoft,38,11/5/2020 13:54,"['science', 'education', 'animals']",super love,positive,75
+350,81abd65a-3b76-4574-a0a7-db6bf7184ae2,c76c3393-88e2-47b0-ac37-dc4f2053f5a5,Gabriel Chauvin,8,"PSC 0909, Box 1784
+APO AA 16657",GC@gmail.com,Google,74,8/16/2020 12:12,"['culture', 'healthy eating', 'studying', 'soccer']",intrigued,positive,45
+353,81abd65a-3b76-4574-a0a7-db6bf7184ae2,d3aa94aa-3e81-49e4-915a-d269e4f42f29,Michael Davis,38,"816 Yang Wall Suite 778
+East Andrew, SC 48958",MD@gmail.com,Motorola,77,9/25/2020 6:17,"['science', 'dogs', 'tennis', 'science']",like,positive,50
+359,7ffd0a82-4a0a-4527-a4d6-e251b756bac7,8abcf667-7be3-439f-97bb-3375a3de366c,Carlos Cobb,41,"0709 Wood Glens
+South Jessica, SD 13655",CC@gmail.com,HTC,75,2/8/2021 3:28,['education'],disgust,negative,0
+360,7ffd0a82-4a0a-4527-a4d6-e251b756bac7,e0e16358-f850-4085-bc5a-ed8e6a4b2ec1,Margaret Rivera,2,"409 Cheyenne Mountains
+Port Sarahmouth, PA 55508",MR@gmail.com,Apple,2,4/2/2021 7:49,"['cooking', 'culture']",interested,positive,30
+366,f332d362-dc48-46c2-a64b-641157c0987e,922d93a7-d56a-4e74-b1bf-1e7bab42dcc4,Alma Lema,43,"PSC 0757, Box 2246
+APO AP 59935",AL@gmail.com,Motorola,53,7/26/2020 19:34,"['education', 'travel', 'animals', 'education']",adore,positive,72
+368,f332d362-dc48-46c2-a64b-641157c0987e,b7b551bd-8cdd-44f3-aef8-29bf82b51535,Myrtis Isaacs,0,"45143 Cabrera Underpass
+Port Melissaborough, NM 50824",MI@gmail.com,Motorola,81,8/21/2020 15:22,"['technology', 'public speaking']",want,positive,70
+370,f332d362-dc48-46c2-a64b-641157c0987e,ade9db41-034e-4b27-befb-42117025dab0,Rebecca Hepler,43,"8206 Wheeler Cape Suite 841
+New Alexis, MT 62531",RH@gmail.com,Microsoft,24,2/14/2021 6:00,"['public speaking', 'tennis']",indifferent,neutral,20
+371,f332d362-dc48-46c2-a64b-641157c0987e,1f7e22c8-558a-4b6f-a04f-b219593f029e,Tracey Corbett,21,"710 Tiffany Knoll Suite 379
+Carterport, HI 44352",TC@gmail.com,Motorola,59,2/15/2021 20:35,"['tennis', 'veganism', 'education', 'soccer']",disgust,negative,0
+373,a2e93b29-9259-4092-a4d7-62d5e823bb74,23a48585-f2cf-4a20-8d30-f49361d5625c,Jessica Gray,39,"USS Henry
+FPO AE 30895",JG@gmail.com,Microsoft,15,9/8/2020 14:01,"['cooking', 'animals', 'studying', 'public speaking']",hate,negative,5
+375,a2e93b29-9259-4092-a4d7-62d5e823bb74,cd5fd7db-8715-41b7-8f4a-11a65b638d8e,Jean Alegre,9,"97474 Diaz Prairie Apt. 120
+Angelaburgh, ME 70682",JA@gmail.com,Microsoft,46,11/21/2020 19:53,"['science', 'education', 'veganism']",interested,positive,30
+376,a2e93b29-9259-4092-a4d7-62d5e823bb74,6f2e20b4-5d7f-4345-b5a1-71a768ab8050,Rhonda Morrow,7,"Unit 7779 Box 7818
+DPO AE 22183",RM@gmail.com,Microsoft,39,10/16/2020 22:41,['science'],scared,negative,15
+380,a2e93b29-9259-4092-a4d7-62d5e823bb74,9a5c1dcc-d26b-4303-b487-3075e7d34e02,Robert King,39,"00777 Melissa Crossroad Apt. 719
+Sanchezside, VT 68213",RK@gmail.com,HTC,16,9/15/2020 22:47,"['public speaking', 'education', 'veganism', 'animals']",worried,negative,12
+383,a2e93b29-9259-4092-a4d7-62d5e823bb74,b827588c-31b2-47f3-916a-a1dbf7987f50,Vincent Bland,30,"1657 Samantha Corners
+West Cynthia, KS 54469",VB@gmail.com,Microsoft,37,2/1/2021 4:49,"['soccer', 'food', 'soccer']",indifferent,neutral,20
+387,a2e93b29-9259-4092-a4d7-62d5e823bb74,95258c36-5b6b-4591-85ee-0c43f503c1d5,Michael Deering,23,"534 Williams Turnpike Suite 788
+Port Julie, WA 70786",MD@gmail.com,Apple,51,3/8/2021 0:05,['tennis'],heart,positive,60
+388,a2e93b29-9259-4092-a4d7-62d5e823bb74,ae600af5-c1f0-4b1f-adb0-1b4c246373e4,Joseph Mills,36,"313 Mark Manor Apt. 843
+Luisborough, PA 96060",JM@gmail.com,Samsung,79,9/14/2020 5:11,"['soccer', 'fitness', 'healthy eating', 'veganism']",want,positive,70
+393,a2e93b29-9259-4092-a4d7-62d5e823bb74,df1e7940-d514-40aa-af3a-e742792c4b5e,William Schoen,15,"138 Bennett Viaduct
+North Barrymouth, NH 82285",WS@gmail.com,Samsung,73,5/19/2021 16:20,"['veganism', 'science']",adore,positive,72
+395,a2e93b29-9259-4092-a4d7-62d5e823bb74,3c45659f-e24d-4b0d-8210-0b7704ea1ac6,Mary Judge,14,"788 Daniel Land Suite 400
+Cameronmouth, NH 99911",MJ@gmail.com,Google,66,10/17/2020 22:39,"['education', 'studying', 'education', 'culture']",want,positive,70
+396,a2e93b29-9259-4092-a4d7-62d5e823bb74,4edc3d1a-a7d9-4db6-89c3-f784d9954172,Michelle Bell,16,"958 Dalton Turnpike Apt. 529
+Morenoland, ND 30458",MB@gmail.com,Samsung,13,4/12/2021 17:12,"['travel', 'tennis', 'studying']",adore,positive,72
+399,a2e93b29-9259-4092-a4d7-62d5e823bb74,72d2587e-8fae-4626-a73d-352e6465ba0f,Charles Tanimoto,21,"384 Steven Station
+South Duane, MI 85677",CT@gmail.com,Google,75,5/20/2021 17:51,"['soccer', 'culture']",peeking,neutral,35
+400,a2e93b29-9259-4092-a4d7-62d5e823bb74,23483ddd-e43e-4c5f-a1b7-5392410aa8d1,Kristen Morin,26,"9462 Darlene Meadows Apt. 135
+New Erik, OH 21431",KM@gmail.com,HTC,35,9/30/2020 18:09,['studying'],hate,negative,5
+403,a2e93b29-9259-4092-a4d7-62d5e823bb74,a540d720-b44a-4d3d-9643-e12bca77d1f3,Ronald Jines,15,"287 Jessica Forge Apt. 180
+Walkerhaven, OH 36424",RJ@gmail.com,Google,8,1/11/2021 16:13,"['soccer', 'travel']",scared,negative,15
+404,a2e93b29-9259-4092-a4d7-62d5e823bb74,b8c653b5-0118-4d7e-9bde-07c2de90f0ff,William Paiva,38,"625 George Vista Suite 798
+Port Leroymouth, IN 75442",WP@gmail.com,Apple,28,12/26/2020 6:13,"['culture', 'science', 'science']",disgust,negative,0
+407,a2e93b29-9259-4092-a4d7-62d5e823bb74,18c56602-937e-4ff3-bc6c-43f0b14212ca,Boyd Prince,26,"1630 Jimenez Ports Suite 217
+West Ashleyfort, CA 00796",BP@gmail.com,Motorola,65,11/14/2020 15:11,['science'],intrigued,positive,45
+408,a2e93b29-9259-4092-a4d7-62d5e823bb74,f25dc445-de4a-47ee-92a4-0ff29c56656d,Jamie Thomas,25,"573 Sanders Parkways
+New Lindashire, ND 17440",JT@gmail.com,Huawei,7,5/5/2021 15:38,"['science', 'public speaking', 'veganism']",super love,positive,75
+413,9b3a6d30-48e8-476c-82be-9031524bd04d,fb4654ff-ce23-4a77-b52a-50f8948b5664,Jo Pearson,14,"60402 Liu Ports
+Ryanmouth, MT 81556",JP@gmail.com,Huawei,12,10/5/2020 18:00,"['culture', 'public speaking']",hate,negative,5
+414,9b3a6d30-48e8-476c-82be-9031524bd04d,b870b764-7447-4990-a8d4-024d33e0e67d,Manuel Powell,42,"61438 Ashley Rapid
+Lake Davidburgh, WI 64695",MP@gmail.com,dcppv,75,5/28/2021 15:20,"[0, 1, 2, 3]",cherish,positive,70
+415,9b3a6d30-48e8-476c-82be-9031524bd04d,e8849148-1482-4926-9f28-a537630b9ba2,Sharon Lindsey,15,"89108 Shannon Terrace
+West Robert, DE 18285",SL@gmail.com,Samsung,20,1/12/2021 12:14,"['dogs', 'public speaking', 'fitness']",hate,negative,5
+416,9b3a6d30-48e8-476c-82be-9031524bd04d,324e384a-9963-4d17-94aa-21859ea85062,George William,0,"309 Salinas Stravenue Suite 842
+Lake Thomas, MN 12440",GW@gmail.com,HTC,72,2/20/2021 0:07,"['studying', 'public speaking']",scared,negative,15
+417,9b3a6d30-48e8-476c-82be-9031524bd04d,1ea3d5d6-7e6d-4554-b31d-ea31dc2150f9,Michael Dwyer,6,"568 Bryant Square Suite 312
+South William, CA 05838",MD@gmail.com,qxugb,49,7/14/2020 21:01,['tennis'],intrigued,positive,45
+418,9b3a6d30-48e8-476c-82be-9031524bd04d,1ee25417-3648-4220-9b8f-fc82d1ef450c,Anne Carlson,32,"Unit 8694 Box 8359
+DPO AP 98988",AC@gmail.com,Motorola,31,6/5/2021 10:04,['travel'],worried,negative,12
+420,9b3a6d30-48e8-476c-82be-9031524bd04d,61d88e0e-c0e7-4352-85ad-555e464ff933,Cassandra Gillikin,27,"195 Hanson Overpass
+New Carolynberg, RI 53669",CG@gmail.com,Google,59,5/18/2021 9:52,"['soccer', 'science']",cherish,positive,70
+424,9b3a6d30-48e8-476c-82be-9031524bd04d,a90c3ed2-7c64-47c3-9da5-b10d05f6f9f2,Paula Gookin,28,"Unit 9861 Box 7865
+DPO AE 78157",PG@gmail.com,Motorola,90,5/29/2021 4:16,['food'],dislike,negative,10
+426,9b3a6d30-48e8-476c-82be-9031524bd04d,fe15963d-0a77-4247-9bc6-04e146b826b2,Gary Scott,38,"187 Renee Canyon Suite 879
+Lake Brianaberg, AL 34115",GS@gmail.com,Motorola,8,11/7/2020 1:54,"['food', 'tennis']",adore,positive,72
+434,9b3a6d30-48e8-476c-82be-9031524bd04d,9fb4ce88-fac1-406c-8544-1a899cee7aaf,Jess Avila,0,"703 Brandy Road
+Fisherborough, ND 30873",JA@gmail.com,Google,19,11/15/2020 22:53,"['culture', 'food', 'culture']",super love,positive,75
+435,9b3a6d30-48e8-476c-82be-9031524bd04d,5fbf758a-376b-472c-8aca-a87ff1db3e6d,Hannah Stiles,38,"32657 Williams Estate
+North Richardburgh, UT 13023",HS@gmail.com,Motorola,81,2/4/2021 13:45,"['technology', 'tennis', 'soccer']",worried,negative,12
+436,9b3a6d30-48e8-476c-82be-9031524bd04d,987b33de-7307-48c1-b34a-6c6806d7af67,Juan Martel,39,"57249 Smith Green Suite 212
+West Ryanland, MI 72354",JM@gmail.com,Google,78,8/1/2020 23:38,"['soccer', 'science']",intrigued,positive,45
+437,9b3a6d30-48e8-476c-82be-9031524bd04d,7a85fbc6-253f-4552-9f4a-c1a332e14fa5,Hazel Andrade,26,"463 James Forest Suite 891
+Clarkstad, AK 16076",HA@gmail.com,Google,12,9/22/2020 17:07,['studying'],super love,positive,75
+440,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,f8926cfa-7036-4929-b5db-925c26daea1a,Mary Gingues,31,"03671 Luis Heights
+Mccannborough, MO 45292",MG@gmail.com,Microsoft,21,2/25/2021 12:05,"['education', 'soccer', 'travel', 'dogs']",peeking,neutral,35
+441,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,b1ceae0c-016d-421f-a6f0-488a7857f9f6,Amalia Young,9,"63792 Roberts Meadows Suite 054
+East Carlstad, ID 36208",AY@gmail.com,HTC,17,4/10/2021 9:41,"['culture', 'education']",disgust,negative,0
+443,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,75ef996f-dee4-47d9-87e2-9b58ebd76ff0,Sharon Bishop,28,"619 Wheeler Lake
+Coreyview, ND 23104",SBhcjcholecn,HTC,97,4/5/2021 16:42,"[0, 1, 2, 3]",worried,negative,12
+445,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,bec3a622-1373-49c2-9d57-e0281c34f5cf,Stacey Fritz,20,"376 Joshua Port
+Port Tracyborough, CA 54430",SF@gmail.com,HTC,51,3/6/2021 10:03,"['cooking', 'animals', 'studying', 'fitness']",heart,positive,60
+447,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,38cceae3-14e0-49bb-8087-f6f210a2053a,Jan Lopez,39,"4415 Valencia Summit Apt. 220
+South Kimberly, MA 71559",JL@gmail.com,Samsung,1,11/14/2020 10:25,"['veganism', 'technology']",like,positive,50
+449,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,1798905d-6c3a-4e5d-a9d1-ce429b1260d7,Billy Alberts,32,"11602 Hartman Islands Apt. 473
+North Kimberly, WV 56982",BA@gmail.com,Huawei,46,2/13/2021 13:45,['studying'],hate,negative,5
+450,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,f41d30f1-50c3-419c-a2d8-9043c7e568ca,George Hope,41,"4304 Thompson Unions Apt. 404
+Port Benjaminhaven, OH 80501",GH@gmail.com,Samsung,81,5/8/2021 11:21,"['cooking', 'fitness', 'technology']",love,positive,65
+455,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,7b7b5825-2ae1-4119-99a7-e638f13267a0,Raymond Schmidt,15,"Unit 0551 Box 4181
+DPO AA 15539",RS@gmail.com,Huawei,77,8/17/2020 14:29,"['cooking', 'technology', 'public speaking', 'tennis']",like,positive,50
+456,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,33c1cee6-ae56-4f8e-84fc-ee0a4b7bbf4c,Jenny Young,5,"11861 Payne Light Apt. 577
+Melissamouth, AZ 68375",JY@gmail.com,HTC,49,8/16/2020 17:45,['technology'],want,positive,70
+459,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,7d624010-a0e7-455b-a606-48c5c467dd80,Larry Mcgee,23,"190 Weaver Shores Apt. 074
+Guzmanmouth, DC 40739",LM@gmail.com,Huawei,19,5/16/2021 13:24,"['food', 'animals']",scared,negative,15
+460,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,0f21b6d6-7be6-484c-9698-d851ad7d43c5,Vito Hodges,3,"679 Sabrina Causeway Suite 012
+South Kelly, TX 40487",VH@gmail.com,Huawei,46,5/20/2021 22:09,"['healthy eating', 'technology', 'healthy eating']",love,positive,65
+462,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,1add9169-fda0-4da2-82a0-4de3bf7ed8ca,Cynthia Cannon,4,"306 Katherine Harbor Suite 849
+Schneidermouth, IA 90041",CC@gmail.com,Motorola,18,8/3/2020 17:58,['public speaking'],intrigued,positive,45
+463,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,54729154-eb5c-413a-8837-887365057910,Ricky Reeves,14,"USS Thomas
+FPO AA 04495",RR@gmail.com,Huawei,36,9/18/2020 16:29,['science'],want,positive,70
+464,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,b3e73328-3638-4913-b7ae-3a6a64c1cd62,Albert Rutherford,25,"17542 Brown Spring
+Jacobtown, WA 58150",AR@gmail.com,Huawei,36,3/27/2021 8:58,"['education', 'culture', 'healthy eating']",hate,negative,5
+466,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,2941011b-f214-4430-8a14-e791ed0805bb,Frank Waggoner,4,"1211 Scott Square
+Josephmouth, MI 42469",FW@gmail.com,Samsung,98,1/19/2021 3:07,"['studying', 'tennis']",super love,positive,75
+467,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,69fcad9e-45a9-4189-b7e1-96b26c57c542,Norbert Hudnell,34,"38435 Dominguez Views Suite 347
+Kellystad, WI 07929",NH@gmail.com,Huawei,56,4/30/2021 6:11,"['animals', 'fitness', 'fitness']",want,positive,70
+469,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,a8d09ab9-44c6-493c-afdf-93888822a4b0,Brady Novak,33,"42154 Susan Hollow Apt. 881
+New Robertton, MI 26982",BN@gmail.com,Apple,13,2/3/2021 18:41,"['public speaking', 'fitness']",indifferent,neutral,20
+470,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,56b8948a-68bd-425f-b842-eabe6bcfacca,Wanda Perry,44,"9539 Sierra Spur
+Schwartzfurt, VA 40451",WP@gmail.com,HTC,47,10/6/2020 10:20,['fitness'],disgust,negative,0
+473,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,bb987a93-cd4f-4b6b-8691-0997ff8a8ce8,Pauline Rose,37,"62549 Turner Plaza
+North Courtney, DC 46366",PR@gmail.com,Samsung,74,3/20/2021 14:45,"['dogs', 'science', 'animals', 'studying']",indifferent,neutral,20
+475,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,b4a6b3ac-b6af-4525-8d59-7afc00ff279d,Benny Addison,30,"086 Cole Inlet
+East Todd, MS 21066",BA@gmail.com,Apple,55,9/20/2020 19:55,"['science', 'dogs', 'travel']",intrigued,positive,45
+476,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,40f15350-9ac3-4b6c-83c3-51cc7945dd01,Steven Galeana,12,"4138 Schmitt Plain
+Christineville, MN 73537",SG@gmail.com,HTC,24,12/20/2020 16:12,"['food', 'studying', 'tennis', 'public speaking']",scared,negative,15
+477,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,0d47a133-383b-4a9c-976c-697ac65ccb19,Jennifer Mcintosh,5,"61708 Terri Walks Suite 867
+East Dylan, MD 80914",JM@gmail.com,Samsung,23,5/8/2021 18:54,"['healthy eating', 'travel']",adore,positive,72
+480,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,a58444bc-a23e-40a1-b09d-0f90bd5cd6b3,Maria Salas,21,"23372 Moore River Suite 639
+North Davidfort, AK 29805",MS@gmail.com,Google,13,5/23/2021 4:59,"['culture', 'education']",cherish,positive,70
+482,850fe90d-47d6-4eb7-b9c8-810afcb99ce9,a81df767-7da1-4844-b63c-fee4c9c7895d,Lee Francis,16,"6688 Michael Route
+West Josephfurt, VA 25603",LF@gmail.com,Samsung,74,4/16/2021 11:15,"['veganism', 'tennis']",super love,positive,75
+499,baa2db00-81ba-4c34-b17d-dd950bfa133b,4baf648a-0ad5-412d-8250-5a0ff9289fbf,Winnie Bonita,41,"24946 Hall Camp Apt. 591
+Moonview, DE 38595",WBwvtnefwtig,Motorola,12,8/8/2020 0:29,"['travel', 'healthy eating']",dislike,negative,10
+503,baa2db00-81ba-4c34-b17d-dd950bfa133b,4cbd005f-69d5-4a83-9947-7009f69c0e7d,Mary Vasquez,4,"00903 Lynn Place Apt. 835
+Juanstad, MD 22409",MV@gmail.com,Huawei,58,10/30/2020 16:05,"['healthy eating', 'technology', 'public speaking']",super love,positive,75
+505,baa2db00-81ba-4c34-b17d-dd950bfa133b,ddc4db8e-0000-48c4-8fdb-d32af87fb823,Robert Clarke,16,"90239 Mckay Crossroad
+Roberthaven, SC 74994",RC@gmail.com,Apple,0,12/18/2020 2:24,"['tennis', 'food', 'dogs']",interested,positive,30
+508,baa2db00-81ba-4c34-b17d-dd950bfa133b,6978b891-dea2-4217-8bc8-47d5aa25e743,Steven Taylor,33,"65533 Ray Wells
+Joshualand, AZ 75615",ST@gmail.com,Samsung,3,12/10/2020 5:51,"['animals', 'animals', 'food']",cherish,positive,70
+509,baa2db00-81ba-4c34-b17d-dd950bfa133b,76cb4dbe-7748-49ab-8179-6e3f3b840dd6,Helen Shull,14,"23420 Brennan Mountains
+Maddenfort, VT 01314",HS@gmail.com,Google,12,9/26/2020 12:50,"['technology', 'education', 'soccer']",love,positive,65
+510,baa2db00-81ba-4c34-b17d-dd950bfa133b,ed1c744d-8561-4b41-b83c-7bf554fbca97,Martha Heaps,10,"PSC 8622, Box 3896
+APO AP 71913",MH@gmail.com,Apple,90,1/13/2021 16:16,"['science', 'education']",want,positive,70
+512,baa2db00-81ba-4c34-b17d-dd950bfa133b,fd7396b2-a18b-449c-b326-e676aebd7776,Douglas Colon,41,"982 Jones Stream Apt. 637
+Aliceton, OR 78687",DC@gmail.com,Motorola,26,3/9/2021 21:30,['veganism'],disgust,negative,0
+517,f98dde71-ce1d-4f6c-bb05-ae05779d2207,22056f9e-4654-44e9-930d-2fabdeb80f95,Chester Smith,23,"271 Ashley Fork Suite 100
+Michaelburgh, MO 35011",CS@gmail.com,Huawei,58,4/14/2021 13:48,"['public speaking', 'science', 'veganism', 'tennis']",hate,negative,5
+520,f98dde71-ce1d-4f6c-bb05-ae05779d2207,eff1e86a-8ede-4a41-818b-9442e3181ee3,Eva Brown,25,"PSC 8330, Box 1422
+APO AP 16415",EB@gmail.com,Samsung,8,10/7/2020 9:31,"['studying', 'fitness']",like,positive,50
+521,f98dde71-ce1d-4f6c-bb05-ae05779d2207,b7e4b060-7b74-408f-b7d7-67a5e1dbfce3,Crystal Scott,44,"11587 Harris Glens Suite 320
+South Rodneyhaven, NY 26221",CS@gmail.com,Huawei,43,3/11/2021 14:45,"['food', 'fitness', 'dogs']",like,positive,50
+522,f98dde71-ce1d-4f6c-bb05-ae05779d2207,9e9c6089-692f-406c-afee-50f62c127e9d,Brandon Portillo,16,"USS Hahn
+FPO AA 69593",BPssplwxufql,Apple,58,3/30/2021 23:01,"['tennis', 'travel', 'science', 'education']",disgust,negative,0
+531,f98dde71-ce1d-4f6c-bb05-ae05779d2207,c5d04879-87bd-4950-9e63-334382ef53af,Willie Poole,3,"USCGC Simpson
+FPO AP 24488",WP@gmail.com,Motorola,46,4/25/2021 9:44,"['studying', 'public speaking']",super love,positive,75
+532,f98dde71-ce1d-4f6c-bb05-ae05779d2207,3954373b-2411-4d3a-98ba-03bafc1a1a6d,Raymond Clowney,13,"50010 Powers Islands Apt. 535
+Smithfurt, IL 16504",RC@gmail.com,HTC,65,2/28/2021 16:15,"['technology', 'public speaking', 'cooking']",dislike,negative,10
+533,f98dde71-ce1d-4f6c-bb05-ae05779d2207,bbef3be1-172e-44bb-be3b-013140707ecf,Marie Laflam,21,"8832 Madison Fork
+Sherriport, MD 39044",ML@gmail.com,Apple,72,10/22/2020 3:40,"['studying', 'public speaking', 'soccer', 'food']",disgust,negative,0
+537,f98dde71-ce1d-4f6c-bb05-ae05779d2207,4027aa31-4bda-4e1d-92f7-49de962e8da9,Stacy Parker,23,"93081 Martinez Estate Suite 892
+Harmonville, MO 67397",SP@gmail.com,Microsoft,32,10/25/2020 11:15,['animals'],dislike,negative,10
+538,f98dde71-ce1d-4f6c-bb05-ae05779d2207,23cc47ff-e5cd-4915-828d-258aefce5a14,Grant Chadwick,23,"19372 Blake Ranch Suite 419
+New Danielborough, VA 97870",GC@gmail.com,HTC,63,4/18/2021 11:43,"['soccer', 'animals', 'healthy eating']",interested,positive,30
+540,f98dde71-ce1d-4f6c-bb05-ae05779d2207,c3988ef2-7e28-4db7-8981-c69f61a3bfce,Rosario Johnson,16,"89033 Christopher Run Suite 734
+North Thomas, MO 31295",RJ@gmail.com,Samsung,82,10/26/2020 12:50,"['fitness', 'cooking', 'science']",love,positive,65
+542,f98dde71-ce1d-4f6c-bb05-ae05779d2207,374634b7-aead-4f2f-9303-c15f456c4094,Gerald Cager,2,"PSC 1888, Box 5510
+APO AA 90778",GC@gmail.com,HTC,24,12/2/2020 8:56,"['cooking', 'tennis', 'cooking']",dislike,negative,10
+547,f98dde71-ce1d-4f6c-bb05-ae05779d2207,de050611-e926-43bb-b1ea-502d8bd25bfc,Karen Rios,3,"8912 Katherine Plaza
+Port Jenna, VA 59860",KR@gmail.com,Huawei,98,7/23/2020 2:21,"['science', 'technology', 'cooking']",peeking,neutral,35
+548,f98dde71-ce1d-4f6c-bb05-ae05779d2207,e69d9ade-20e5-4e31-bc70-5a46556c530f,Rhoda Thomas,16,"Unit 7564 Box 1230
+DPO AP 95924",RT@gmail.com,Samsung,57,12/6/2020 14:59,"['dogs', 'food']",cherish,positive,70
+550,f98dde71-ce1d-4f6c-bb05-ae05779d2207,ce9b41f4-625e-4868-83d1-6b53767a8af5,Dewey Sibley,19,"0605 Angela Lake Suite 496
+East Matthewville, AL 68736",DS@gmail.com,Google,68,1/23/2021 2:20,"['cooking', 'dogs', 'public speaking', 'culture']",intrigued,positive,45
+551,f98dde71-ce1d-4f6c-bb05-ae05779d2207,8c9c5ee7-9c8c-4842-bbd1-1d1e51da8164,Jeremy Rooney,31,"USNV Cole
+FPO AA 11574",JR@gmail.com,Microsoft,92,7/14/2020 8:11,"['cooking', 'science']",intrigued,positive,45
+552,f98dde71-ce1d-4f6c-bb05-ae05779d2207,2f112802-2501-45b5-a9d9-470cda6ef23e,Laverne Jones,10,"40259 Mark Mountains Suite 714
+Lake Michaelchester, MI 25605",LJ@gmail.com,Google,73,4/23/2021 22:20,"['travel', 'food', 'healthy eating']",heart,positive,60
+554,388bd9db-9d10-4f47-87c4-6db46e83bc95,80c9ce48-46f9-4f5e-b3ca-3b698fc2e949,Joyce Batts,42,"318 Sandra Circle Suite 396
+Stevensport, SD 72190",JB@gmail.com,Google,39,8/22/2020 23:58,"['veganism', 'veganism', 'culture']",interested,positive,30
+555,388bd9db-9d10-4f47-87c4-6db46e83bc95,11f207c2-0113-47e5-aa9a-df2c7b91ac75,Johnnie Root,2,"8830 Cox View
+Brittanystad, MT 70810",JR@gmail.com,Google,17,4/3/2021 23:11,"['culture', 'public speaking', 'technology']",like,positive,50
+558,388bd9db-9d10-4f47-87c4-6db46e83bc95,31ff6616-c1dc-4b9a-8091-0b4d0cac25b1,Edna Horner,15,"521 Wagner Cliff
+Dianefurt, WY 33795",EH@gmail.com,Apple,4,5/23/2021 16:22,['science'],want,positive,70
+559,388bd9db-9d10-4f47-87c4-6db46e83bc95,7dd7dec0-5758-4a6e-a7dd-27a20e57c757,Kathryn Henderson,2,"998 Lauren Villages Suite 720
+Susanland, HI 92070",KH@gmail.com,Apple,40,10/3/2020 13:46,"['cooking', 'technology', 'fitness']",dislike,negative,10
+561,388bd9db-9d10-4f47-87c4-6db46e83bc95,4bc62825-3109-4796-9465-1bf853165347,Billie Frank,43,"287 Harris Common Suite 990
+Emilyburgh, AK 56009",BF@gmail.com,Motorola,66,12/16/2020 1:34,"['technology', 'food', 'dogs', 'soccer']",want,positive,70
+566,388bd9db-9d10-4f47-87c4-6db46e83bc95,b83ae39f-2b80-4925-b5ff-34ddefd7f07c,Vivian Toney,31,"72478 Blackwell Springs Apt. 850
+West Lindsayville, IN 42605",VTrgqcnsrvpx,Apple,56,6/16/2021 0:13,"[0, 1, 2]",love,positive,65
+567,388bd9db-9d10-4f47-87c4-6db46e83bc95,58fc0c8b-f669-4ee3-9a92-6d4290d85277,Willis Brockman,12,"5619 Floyd Stream Suite 948
+Pruittmouth, WA 61597",WB@gmail.com,Apple,7,6/3/2021 12:45,"['education', 'fitness', 'dogs', 'healthy eating']",like,positive,50
+568,388bd9db-9d10-4f47-87c4-6db46e83bc95,fd4da61a-5102-4311-8b9f-2ec57bfac6b1,Bruce Porter,22,"20641 Turner Causeway
+Robertville, MT 44649",BP@gmail.com,Samsung,24,4/19/2021 5:11,['education'],dislike,negative,10
+569,388bd9db-9d10-4f47-87c4-6db46e83bc95,ac4e6ee0-d1bd-4e6b-9355-7567b3e3ec5e,Charles Browder,2,"43714 Shane Row Suite 973
+Kanebury, RI 31041",CB@gmail.com,Google,24,3/25/2021 22:25,"['cooking', 'soccer']",heart,positive,60
+572,388bd9db-9d10-4f47-87c4-6db46e83bc95,98511140-45c4-4faa-9962-fea5ad618ea3,Michael Villegas,36,"8817 Paul Vista Apt. 501
+Coreybury, LA 38711",MV@gmail.com,Huawei,9,7/22/2020 17:01,"['culture', 'soccer', 'fitness']",interested,positive,30
+574,78d0075f-895c-4a15-a35c-a921e2bb2cea,3d13e0d3-e765-4065-9221-3f864689b9e0,Mark Nettles,8,"56558 Morales Neck Apt. 243
+Port Sherylhaven, OK 55241",MN@gmail.com,HTC,2,9/11/2020 19:13,"['dogs', 'education', 'dogs']",want,positive,70
+575,78d0075f-895c-4a15-a35c-a921e2bb2cea,07061727-dc05-4411-ab78-79f95b1869a9,Lana Forrest,38,"6846 Jennifer Court
+South Christophershire, OR 42839",LF@gmail.com,Huawei,81,4/30/2021 9:22,['dogs'],super love,positive,75
+576,78d0075f-895c-4a15-a35c-a921e2bb2cea,bf721d00-4fa1-44b1-834f-4730cd51aefa,Tara Johnson,38,"06429 Jonathan Junction
+Brianmouth, GA 93687",TJ@gmail.com,Samsung,37,12/13/2020 15:10,"['fitness', 'public speaking', 'culture', 'science']",scared,negative,15
+586,78d0075f-895c-4a15-a35c-a921e2bb2cea,0c9ea4da-c609-4b08-ab44-1da0530ba364,Eugene Battaglia,28,"9527 Ellen Station
+Heatherberg, SC 95732",EB@gmail.com,Google,0,5/24/2021 5:36,"['soccer', 'public speaking']",hate,negative,5
+587,78d0075f-895c-4a15-a35c-a921e2bb2cea,bbe8f83c-af9c-4dab-b5fa-7925822e450d,Dona Rivera,37,"4820 Jeffrey Wall
+Port Stacy, MA 06050",DR@gmail.com,Samsung,47,6/11/2021 9:36,"['animals', 'healthy eating', 'travel']",cherish,positive,70
+589,78d0075f-895c-4a15-a35c-a921e2bb2cea,683d880b-3ccf-4f4d-8182-96e7a7a884bd,Sheila Liberty,27,"3509 Lee Rue Apt. 774
+Sanchezview, RI 60023",SL@gmail.com,Motorola,47,3/6/2021 20:42,"['culture', 'tennis', 'veganism', 'fitness']",love,positive,65
+591,78d0075f-895c-4a15-a35c-a921e2bb2cea,3ae50cc3-39cc-440a-8e31-3215011f2762,Crystal Dukes,27,"796 Burgess Vista Suite 995
+Lake Rachel, MT 18164",CD@gmail.com,Huawei,23,5/30/2021 19:32,['technology'],indifferent,neutral,20
+595,78d0075f-895c-4a15-a35c-a921e2bb2cea,f62c96d8-5b1e-45c6-8a65-b36a9387827d,Charles Pennington,4,"418 Jennifer Motorway Suite 815
+Cruzview, GA 03543",CP@gmail.com,Microsoft,6,12/4/2020 7:19,"['food', 'culture']",love,positive,65
+596,78d0075f-895c-4a15-a35c-a921e2bb2cea,e3417115-6e56-4f55-a4ae-70353582a8c4,John Polsgrove,6,"3645 Jacob Rapid Suite 379
+Martinside, AK 05542",JP@gmail.com,Motorola,46,7/12/2020 18:21,"['healthy eating', 'public speaking']",worried,negative,12
+598,78d0075f-895c-4a15-a35c-a921e2bb2cea,d2e48a3d-aeca-4b36-8550-f8cbb10d09b8,Helen Barette,5,"565 Rogers Gardens Suite 613
+East Kevin, CT 42190",HB@gmail.com,Google,83,6/14/2021 4:29,"['cooking', 'studying']",intrigued,positive,45
+602,78d0075f-895c-4a15-a35c-a921e2bb2cea,ae4eaf32-9db8-457d-ad58-1c4fad4b7eff,Guy Johnson,30,"1656 Megan Vista
+Lake Kristin, FL 81830",GJ@gmail.com,Samsung,83,12/18/2020 0:13,"['food', 'tennis', 'cooking', 'travel']",scared,negative,15
+605,78d0075f-895c-4a15-a35c-a921e2bb2cea,63e1cb43-d3dc-491a-af16-209c1c152c44,Deborah Thomas,19,"9665 Bean Forge Suite 635
+Franciscoside, ND 41116",DT@gmail.com,Apple,39,10/11/2020 9:52,"['dogs', 'technology']",scared,negative,15
+607,78d0075f-895c-4a15-a35c-a921e2bb2cea,acd90ee9-84cd-465e-88e3-f128dd0cc1da,Thomas Shoemaker,37,"78377 Michael Street
+Lake Andrew, CA 48937",TS@gmail.com,Samsung,94,12/7/2020 0:39,['culture'],disgust,negative,0
+611,78d0075f-895c-4a15-a35c-a921e2bb2cea,9ed68c70-13fd-4346-808f-2665943c46d6,Maritza Kahola,0,"Unit 8003 Box 5162
+DPO AP 61225",MK@gmail.com,Huawei,19,1/8/2021 19:20,"['soccer', 'science', 'healthy eating', 'healthy eating']",heart,positive,60
+614,78d0075f-895c-4a15-a35c-a921e2bb2cea,f717de6d-2b64-4ef9-855d-ff1c9460c3fe,Vivian Floyd,30,"07272 Mark Shores
+North Kelli, NE 27814",VF@gmail.com,Microsoft,25,7/6/2020 19:29,['science'],disgust,negative,0
+615,78d0075f-895c-4a15-a35c-a921e2bb2cea,95023c1b-04b7-4efd-ab34-61a4a70bb9d8,Arthur Wittmer,5,"038 Roy Port Suite 983
+Charlesstad, MT 64615",AW@gmail.com,HTC,54,11/11/2020 14:07,"['studying', 'public speaking', 'travel', 'studying']",cherish,positive,70
+620,78d0075f-895c-4a15-a35c-a921e2bb2cea,a92660de-2154-4694-a86e-88cb81c8ea95,Sarah Alexander,29,"3558 Kurt Underpass Suite 261
+Lake Brenda, TN 07706",SA@gmail.com,ouafw,98,6/8/2021 23:06,"['public speaking', 'animals', 'tennis']",adore,positive,72
+624,bda0b065-7f8b-4d52-b7e9-fcc375cdab08,e09aa625-3db7-49bd-be09-9aaa0c86a8bf,Matthew Perkins,30,"81352 Blair Walks
+New Daniel, TX 08232",MP@gmail.com,Google,8,2/24/2021 18:34,"['dogs', 'science', 'animals', 'cooking']",heart,positive,60
+626,bda0b065-7f8b-4d52-b7e9-fcc375cdab08,04e52602-e370-4a99-bfda-f0c1655058da,Mark Turpin,6,"USNV Lee
+FPO AP 28828",MT@gmail.com,Motorola,47,10/20/2020 15:14,"['culture', 'animals', 'food']",heart,positive,60
+627,bda0b065-7f8b-4d52-b7e9-fcc375cdab08,13f0db8a-152a-496f-a6e8-1ed6a90b8788,Erin Carroll,42,"Unit 8199 Box 1582
+DPO AP 88280",EC@gmail.com,Microsoft,27,12/9/2020 20:38,"['public speaking', 'food', 'cooking']",want,positive,70
+630,bda0b065-7f8b-4d52-b7e9-fcc375cdab08,6ecb39b1-8f85-44f1-b2f3-0cffcba4d731,Clifford Hebert,22,"181 Kristen Estates
+Hullchester, OH 44577",CH@gmail.com,HTC,19,8/28/2020 15:56,"['animals', 'travel', 'travel']",peeking,neutral,35
+632,bda0b065-7f8b-4d52-b7e9-fcc375cdab08,274ac4ac-395a-4f70-90e5-9771ac3db11b,Diane Arrington,32,"588 Michael Road
+Lake Larryberg, MD 40485",DA@gmail.com,Apple,60,12/6/2020 22:28,"['food', 'travel']",peeking,neutral,35
+635,bda0b065-7f8b-4d52-b7e9-fcc375cdab08,e57c1d53-11ce-4df6-bb4b-85647776fd6d,John Bayly,25,"80826 Fox Fall
+East Michael, KS 93499",JB@gmail.com,HTC,79,7/26/2020 11:28,"['travel', 'studying']",disgust,negative,0
+638,bda0b065-7f8b-4d52-b7e9-fcc375cdab08,9d0a0b94-b081-40d7-bf56-6f8f4750dbaf,Raymond Wander,16,"24312 Martin Views
+Marytown, AZ 15304",RW@gmail.com,Microsoft,10,12/18/2020 6:02,"['studying', 'science']",super love,positive,75
+647,a4067fb5-3ba8-4f97-87c2-ddad5e4029c2,dd118345-3ba6-4800-9686-d5479fee403d,Christopher Mitchell,19,"Unit 8902 Box 9429
+DPO AP 73681",CM@gmail.com,HTC,22,4/13/2021 21:53,"['public speaking', 'fitness']",interested,positive,30
+649,a4067fb5-3ba8-4f97-87c2-ddad5e4029c2,4793cc6d-be60-42cc-bfd4-7ce8fd4d0eab,Patricia Brown,0,"737 Frederick Squares Suite 479
+East Tiffanyhaven, RI 58805",PB@gmail.com,Microsoft,83,2/3/2021 11:48,"['veganism', 'travel']",peeking,neutral,35
+652,a4067fb5-3ba8-4f97-87c2-ddad5e4029c2,c880dbc5-8997-4f38-9055-c254b9133175,Lois Wallen,18,"4939 Lozano Forest Apt. 330
+South Jessica, CA 74017",LW@gmail.com,Motorola,49,9/10/2020 0:27,"['education', 'culture', 'public speaking']",worried,negative,12
+655,a4067fb5-3ba8-4f97-87c2-ddad5e4029c2,f9775602-43ab-4d54-ad93-7c9a489879bc,Madeline Schleich,40,"5566 William Locks Apt. 237
+Lake Monica, WV 22909",MS@gmail.com,Motorola,59,2/24/2021 23:54,"['animals', 'public speaking', 'veganism']",love,positive,65
+658,a4067fb5-3ba8-4f97-87c2-ddad5e4029c2,b9480379-4b96-412c-8dca-96fff9ae81a3,Everett Vance,21,"0538 David Roads
+Fergusonmouth, MD 32236",EV@gmail.com,Google,40,8/14/2020 19:14,"['food', 'soccer', 'healthy eating']",scared,negative,15
+665,a4067fb5-3ba8-4f97-87c2-ddad5e4029c2,789b11b4-96ff-4abd-8da2-3da8b12d1e6e,Drew Robbins,13,"Unit 0892 Box 7484
+DPO AE 41789",DR@gmail.com,Motorola,70,1/18/2021 22:57,"['veganism', 'healthy eating', 'science']",interested,positive,30
+666,a4067fb5-3ba8-4f97-87c2-ddad5e4029c2,5d33137a-3306-4d5f-8ab1-48d2446a12b0,Raymond Smith,0,"PSC 9104, Box 9179
+APO AP 34539",RS@gmail.com,HTC,41,7/29/2020 6:29,['veganism'],love,positive,65
+668,a4067fb5-3ba8-4f97-87c2-ddad5e4029c2,122c3e03-0a96-4d62-9d17-27f8e2b6ba58,Rudolph Villena,39,"89512 Todd Course Suite 452
+Katherinemouth, WA 95143",RV@gmail.com,Huawei,4,12/22/2020 12:17,['public speaking'],heart,positive,60
+676,a4067fb5-3ba8-4f97-87c2-ddad5e4029c2,30be2156-59d1-451e-beea-1a3690200a2b,David Gafford,15,"18209 Williams Freeway
+South Terri, MA 51015",DG@gmail.com,Samsung,74,5/16/2021 15:45,"['healthy eating', 'fitness', 'tennis']",worried,negative,12
+680,809b41e3-7a6f-4d80-84bf-f8d7b0e2d0e1,64b82ed5-80dc-4fbb-9dfc-d7e037684f0e,Daniel Ibara,32,"993 Jacob Island
+New Susanside, MD 70021",DI@gmail.com,Apple,27,4/23/2021 18:00,['science'],want,positive,70
+681,809b41e3-7a6f-4d80-84bf-f8d7b0e2d0e1,5ffd8b51-164e-47e2-885e-8b8c46eb63ed,Ruth Nemoede,0,"PSC 9038, Box 4090
+APO AP 52456",RN@gmail.com,Huawei,98,12/21/2020 21:36,['science'],heart,positive,60
+683,809b41e3-7a6f-4d80-84bf-f8d7b0e2d0e1,45064aca-5e28-4b1f-be64-202fc5e0daba,Celia Tucker,35,"04308 Jacobs Valleys
+East Erik, CO 04987",CT@gmail.com,Google,57,5/23/2021 4:00,"['public speaking', 'dogs', 'cooking']",scared,negative,15
+687,809b41e3-7a6f-4d80-84bf-f8d7b0e2d0e1,af647535-dae8-4ca3-9203-bf4bfc607ffe,Michael Newell,16,"19797 Chen Ferry
+Port Erikaland, WI 98982",MN@gmail.com,Microsoft,70,3/12/2021 12:19,"['tennis', 'technology', 'healthy eating', 'education']",heart,positive,60
+697,34a3747a-0b77-42f6-ae19-87c38b94b674,2aae6657-1214-4119-8cde-6b0dc5cd5529,Christopher Gipson,40,"189 Heidi Glen
+Fisherborough, KS 37123",CG@gmail.com,Microsoft,92,3/14/2021 7:11,"['healthy eating', 'dogs', 'science', 'soccer']",cherish,positive,70
+698,34a3747a-0b77-42f6-ae19-87c38b94b674,a8229d24-f219-4930-a382-24049a8f73bb,Richard Bain,25,"867 Lisa Causeway Apt. 015
+West Brentmouth, AL 99540",RB@gmail.com,HTC,25,7/2/2020 11:39,"['fitness', 'cooking', 'animals', 'travel']",adore,positive,72
+704,34a3747a-0b77-42f6-ae19-87c38b94b674,1ff398e4-6b68-451d-9b00-2d2a565ba22a,Fae Bush,29,"87079 Cross Extension Suite 431
+New Davidtown, ID 06080",FB@gmail.com,HTC,68,9/7/2020 1:45,"['culture', 'travel']",like,positive,50
+707,34a3747a-0b77-42f6-ae19-87c38b94b674,ce7c338c-cad4-408f-895b-510ca73a388b,Carmen Sander,22,"64510 Howard Fork
+West Samantha, GA 83833",CS@gmail.com,Google,36,3/1/2021 20:21,"['travel', 'food', 'culture']",interested,positive,30
+709,34a3747a-0b77-42f6-ae19-87c38b94b674,fc17ca61-7c66-4ceb-8504-32f58b438b45,Cory Porter,41,"979 Dennis Gateway Suite 250
+West Jenniferview, NM 80685",CP@gmail.com,Motorola,94,6/30/2020 10:29,"['dogs', 'dogs', 'public speaking']",indifferent,neutral,20
+710,34a3747a-0b77-42f6-ae19-87c38b94b674,a4fd7920-9edf-4930-84bd-7a38b3bf9cec,Wayne Calabrese,39,"03829 Matthew Hollow
+Lake Matthewland, KY 72330",WC@gmail.com,HTC,59,4/30/2021 2:55,"['food', 'fitness']",indifferent,neutral,20
+711,34a3747a-0b77-42f6-ae19-87c38b94b674,4291e9a9-b4a8-42e1-b032-520b16f93888,Taylor Webster,6,"7013 Brett Canyon
+Derrickfurt, TN 95557",TW@gmail.com,Samsung,90,8/9/2020 10:14,"['travel', 'dogs', 'travel']",indifferent,neutral,20
+716,34a3747a-0b77-42f6-ae19-87c38b94b674,5d04455b-a95e-40d8-bcd4-8c485777c47f,Deborah Nealy,29,"987 Villanueva Common
+South Patrickburgh, NE 86817",DN@gmail.com,Google,9,6/18/2021 1:10,['travel'],peeking,neutral,35
+720,34a3747a-0b77-42f6-ae19-87c38b94b674,05d7e77f-a18a-4358-a23a-46c560b3682e,Jason Evanoff,8,"540 Shah Hollow
+East Chadport, TN 55493",JE@gmail.com,Microsoft,91,3/18/2021 13:28,"['veganism', 'veganism', 'veganism']",peeking,neutral,35
+732,34a3747a-0b77-42f6-ae19-87c38b94b674,f46eee2a-6024-4046-a6f4-5232366edb87,Thomas Wickman,1,"USCGC Wang
+FPO AP 92458",TW@gmail.com,Google,17,10/9/2020 19:16,"['cooking', 'culture', 'fitness', 'cooking']",cherish,positive,70
+737,34a3747a-0b77-42f6-ae19-87c38b94b674,c7b6e374-1bef-48c3-8222-cc231dbd5cce,Justin Hooper,8,"4719 Joseph Cape Apt. 672
+Port Nathanielhaven, SC 42585",JH@gmail.com,Huawei,21,5/14/2021 17:54,"['veganism', 'science', 'education']",intrigued,positive,45
+741,2920dccb-e06f-49fc-8049-b6d4164dfe84,eb74e88c-1bf5-402f-987e-90a5977ae1e3,Julio Tiano,23,"0384 Perkins Squares Apt. 339
+South Madison, KY 67565",JT@gmail.com,Huawei,46,2/23/2021 1:14,['public speaking'],adore,positive,72
+751,2920dccb-e06f-49fc-8049-b6d4164dfe84,8665a934-dc22-482b-9289-2e2c9d6a4095,Gavin Anderson,42,"23776 Nathan Street
+New Andrew, ME 65273",GA@gmail.com,Apple,24,12/7/2020 11:41,"['healthy eating', 'food', 'soccer', 'healthy eating']",scared,negative,15
+753,2920dccb-e06f-49fc-8049-b6d4164dfe84,9dcb5fd8-9e7f-40d3-bd1d-edf33ecf6388,Jorge Oglesby,33,"65767 John Stravenue
+North Thomasbury, WA 51467",JO@gmail.com,Samsung,89,2/4/2021 11:26,"['food', 'animals', 'science', 'soccer']",interested,positive,30
+755,2920dccb-e06f-49fc-8049-b6d4164dfe84,8d67b1c4-cd76-4701-a908-738e7a2411e7,Katie Cooper,18,"338 Ramirez Knoll Apt. 999
+North Eric, NM 56762",KC@gmail.com,Motorola,81,2/2/2021 9:22,"['public speaking', 'science', 'food', 'veganism']",worried,negative,12
+759,2920dccb-e06f-49fc-8049-b6d4164dfe84,fe37b2b4-ee09-4caf-aff5-fd15f6f083a1,Calvin Wilmoth,1,"033 Kim Isle Suite 977
+Stephenfort, ID 13388",CW@gmail.com,Microsoft,62,10/25/2020 17:21,['tennis'],indifferent,neutral,20
+761,2920dccb-e06f-49fc-8049-b6d4164dfe84,63e07d14-7bed-44b8-9cf0-4a7e9b2a99ea,Bonnie Castillo,32,"42803 Crawford Extensions Suite 059
+New Dustinshire, NM 59137",BC@gmail.com,Microsoft,10,1/3/2021 20:01,"['dogs', 'studying', 'public speaking']",hate,negative,5
+771,2920dccb-e06f-49fc-8049-b6d4164dfe84,a6e32004-8866-40e5-aaeb-e159c13fd42a,Ruth Wilkins,23,"6436 Michele River Suite 127
+Port Kristina, NJ 05832",RW@gmail.com,Microsoft,30,9/28/2020 3:59,"['technology', 'dogs', 'tennis', 'animals']",worried,negative,12
+782,f4e3840e-bb71-40c2-afc5-9408d842646d,e79a2e98-57b4-4469-8da4-87f338460d42,Gilbert Griffin,35,"0496 Patterson Throughway Suite 903
+Lake Brianstad, PA 93061",GG@gmail.com,Apple,63,6/28/2020 7:53,"['public speaking', 'science', 'culture', 'culture']",cherish,positive,70
+785,f4e3840e-bb71-40c2-afc5-9408d842646d,007a1366-a46f-40f1-9ba5-01245aeaf20f,Kathryn Lowery,37,"3156 Robinson Station
+South Matthew, NE 96918",KL@gmail.com,Microsoft,51,4/17/2021 18:59,"['veganism', 'veganism']",super love,positive,75
+789,f4e3840e-bb71-40c2-afc5-9408d842646d,4fe420fa-a193-4408-bd5d-62a020233609,Charles Taylor,38,"39270 Linda Wall Apt. 032
+Jonesburgh, AZ 55032",CT@gmail.com,Apple,5,1/4/2021 4:40,['healthy eating'],interested,positive,30
+800,f4e3840e-bb71-40c2-afc5-9408d842646d,d74e1b39-7b34-4bcb-a24d-e215097187f5,Sandra Hoff,15,"746 Carrillo Glens
+Foxport, OR 27431",SH@gmail.com,HTC,54,3/8/2021 2:51,"['science', 'cooking', 'travel']",disgust,negative,0
+803,f4e3840e-bb71-40c2-afc5-9408d842646d,20d507a0-fdba-4c04-a30c-bd18273accdc,Ellen Gustafson,2,"1464 William Ranch Suite 413
+Johnnytown, WI 73058",EG@gmail.com,Samsung,93,12/22/2020 11:15,['technology'],peeking,neutral,35
+804,f4e3840e-bb71-40c2-afc5-9408d842646d,a710ab29-b72a-42c8-a79b-42e63d4a8bfd,Sally Phillips,26,"579 Crawford Landing
+South Wandafort, UT 97692",SP@gmail.com,Google,18,3/25/2021 13:06,"['education', 'travel', 'tennis']",super love,positive,75
+808,f4e3840e-bb71-40c2-afc5-9408d842646d,3d5f257e-556b-4e19-b127-977bc5c4daed,Susan Weinhold,25,"593 Stephens Spring
+Lorihaven, AL 04182",SW@gmail.com,Samsung,19,4/23/2021 11:45,"['studying', 'technology', 'soccer']",dislike,negative,10
+811,a2ff9bf2-1fa6-4001-9566-f597f8e754ef,5b3b843e-7c66-4eac-82b6-8d6f7a19277c,Lloyd Gabert,33,"35598 Whitehead Plains
+Robinland, AL 05689",LG@gmail.com,Huawei,46,9/3/2020 17:05,"['technology', 'fitness']",intrigued,positive,45
+815,a2ff9bf2-1fa6-4001-9566-f597f8e754ef,f73a01fe-444d-4b94-8d0e-4ec2cb97495b,Kim Thomas,27,"23112 Lawson Landing Suite 505
+Randallview, CO 46124",KT@gmail.com,Apple,57,11/23/2020 18:07,"['food', 'science', 'animals']",cherish,positive,70
+817,a2ff9bf2-1fa6-4001-9566-f597f8e754ef,3f2d07e5-3604-4873-9737-bb44340773d8,Shawn Landau,26,"USNV Brown
+FPO AE 46644",SL@gmail.com,Motorola,54,2/21/2021 8:37,['fitness'],disgust,negative,0
+819,a2ff9bf2-1fa6-4001-9566-f597f8e754ef,0828c4e1-63ec-4121-aa07-eefd37954bb9,Violet Thomas,4,"8690 Martin Hollow
+Janetfurt, MN 29250",VT@gmail.com,HTC,81,5/10/2021 0:06,"['tennis', 'cooking', 'science']",love,positive,65
+826,a2ff9bf2-1fa6-4001-9566-f597f8e754ef,9bbcd241-2de4-4a55-a3fe-2292cfbdc11c,Randy Huynh,32,"USNV Wright
+FPO AA 24117",RH@gmail.com,Samsung,88,6/1/2021 12:27,['soccer'],indifferent,neutral,20
+835,a2ff9bf2-1fa6-4001-9566-f597f8e754ef,e8c9386c-8fbc-40cc-9587-ccb912ec5c10,Maryann Gillis,36,"32252 Allen Land
+West Angelatown, TX 49832",MG@gmail.com,Huawei,74,3/2/2021 10:11,['food'],worried,negative,12
+845,74718bbf-e5a3-442f-8ca2-4a3428757fc1,5897490a-0aaa-49c9-b63e-0da83088e3e0,Tyler Roosa,13,"USNS Schneider
+FPO AE 13152",TR@gmail.com,Microsoft,2,1/27/2021 5:51,"['food', 'soccer']",love,positive,65
+858,74718bbf-e5a3-442f-8ca2-4a3428757fc1,caa8605b-5cd3-49d0-a680-2a6e9f3bf0a5,Katherine Robinson,38,"233 Amber Alley Apt. 572
+Gonzalezfort, MO 83466",KR@gmail.com,Huawei,98,7/8/2020 10:18,['veganism'],disgust,negative,0
+861,74718bbf-e5a3-442f-8ca2-4a3428757fc1,ef629f00-391d-4a79-af74-77a9afdbbd41,Maria Steele,42,"49172 Rachel Turnpike
+Dillonfurt, VA 63446",MS@gmail.com,Microsoft,72,10/7/2020 9:16,"['food', 'public speaking', 'public speaking', 'animals']",scared,negative,15
+870,74718bbf-e5a3-442f-8ca2-4a3428757fc1,d56c9d87-7d56-4a5e-a0e8-bbc4ddc3242c,Amber Wooten,28,"Unit 2884 Box 7963
+DPO AE 42637",AW@gmail.com,Motorola,94,10/22/2020 15:01,['science'],disgust,negative,0
+872,89fd8f89-807f-4076-b7e7-84db361e11c1,95f4bf3f-7eb7-429a-9f48-0f7cbdf0beaa,Kenneth Elder,38,"61520 Washington Hollow
+Lawrencehaven, ND 11805",KE@gmail.com,Motorola,69,9/9/2020 0:41,"['culture', 'soccer', 'culture']",intrigued,positive,45
+879,02fa1c4f-722d-46d2-a85e-e5b136b5f3bc,2c32ac39-926d-4473-801f-5733222ad74f,Jack Rennie,10,"1221 Jasmine Terrace
+Port Kristineshire, GA 46158",JR@gmail.com,Google,7,3/10/2021 18:08,"['science', 'fitness', 'cooking']",adore,positive,72
+881,02fa1c4f-722d-46d2-a85e-e5b136b5f3bc,da97952a-2eba-46c4-a19e-3df3c40a1524,Rhoda Lopez,38,"03312 Alexander Shores Apt. 213
+New Krystalburgh, IN 99313",RL@gmail.com,Microsoft,79,5/19/2021 11:51,"['animals', 'travel', 'science', 'studying']",hate,negative,5
+883,02fa1c4f-722d-46d2-a85e-e5b136b5f3bc,b473e898-b7b0-4a57-959d-484bf4cc4483,Lee Horn,44,"319 Michael Village
+West Sherrihaven, WI 75916",LH@gmail.com,Huawei,34,12/26/2020 13:56,"['food', 'soccer']",hate,negative,5
+887,02fa1c4f-722d-46d2-a85e-e5b136b5f3bc,2ad548cd-a899-4992-972b-92cde9cea8f1,Donna Adams,27,"20643 Rice Fords
+Bethshire, CO 85308",DA@gmail.com,Microsoft,64,9/2/2020 0:42,"['travel', 'soccer', 'public speaking', 'science']",super love,positive,75
+891,02fa1c4f-722d-46d2-a85e-e5b136b5f3bc,600118fa-e6f4-4d74-aeb6-936abbbf38a1,Darrell Becker,17,"3536 Christopher Hollow Suite 100
+Allenport, PA 83406",DB@gmail.com,Apple,73,2/3/2021 8:07,"['cooking', 'tennis', 'soccer', 'healthy eating']",dislike,negative,10
+892,02fa1c4f-722d-46d2-a85e-e5b136b5f3bc,dcc6000c-ba92-472c-8bc1-9e9ca30b475b,Randal Davis,9,"45056 Tammy Springs
+West Nicole, VT 62857",RD@gmail.com,HTC,98,12/15/2020 7:10,"['education', 'food']",worried,negative,12
+908,eec5e521-4c28-4e8a-93a9-d544803fad7e,72f7f84c-5bcc-4380-81cd-3378ce0a1b32,Harold Miller,5,"3206 Dustin Tunnel
+New Dwaynefort, WI 29753",HM@gmail.com,Samsung,48,3/7/2021 22:58,"['soccer', 'cooking']",like,positive,50
+940,eec5e521-4c28-4e8a-93a9-d544803fad7e,bf970f55-66c1-402d-a5d7-f086421516c9,Gertrude Heaps,28,"2287 Bishop Throughway
+South Caitlin, TN 32386",GH@gmail.com,Apple,78,8/2/2020 5:53,"['food', 'public speaking', 'cooking', 'fitness']",like,positive,50
+946,07f88a73-aef2-45fd-8b5d-418e448b853d,7d8c8c77-77a8-4743-b35f-349c0ac07866,Clyde Wheelis,13,"943 Wilson Fields Apt. 509
+Williamston, MO 37340",CW@gmail.com,Microsoft,95,3/12/2021 16:22,['travel'],cherish,positive,70
+947,07f88a73-aef2-45fd-8b5d-418e448b853d,6e9c7f30-264a-4aa0-b3ac-36e852d10906,Linda Zettlemoyer,25,"PSC 2768, Box 0408
+APO AA 38458",LZ@gmail.com,Microsoft,2,10/17/2020 10:20,"['healthy eating', 'healthy eating', 'food']",intrigued,positive,45
+958,49367a0f-1fd5-4417-a7c9-4a154e1ae0ad,aa71ef91-252d-4c99-92ad-cf617f09fced,Rose Cook,3,"65135 Paul Cliff
+West Wendy, KY 36605",RC@gmail.com,Motorola,5,2/24/2021 17:09,"['studying', 'studying']",scared,negative,15
+973,49367a0f-1fd5-4417-a7c9-4a154e1ae0ad,346174b1-4661-4cdd-8c47-66dbd013cd56,William Christensen,32,"24228 Abbott Roads
+Johnsonhaven, AZ 90289",WC@gmail.com,Microsoft,56,3/18/2021 18:58,"['travel', 'veganism', 'food']",dislike,negative,10
+974,49367a0f-1fd5-4417-a7c9-4a154e1ae0ad,26c9a1fc-78b0-460b-8931-cec1dc87aa0d,Mabel Randall,0,"667 Megan Plaza Suite 327
+South Pamelaland, ND 47212",MR@gmail.com,HTC,15,9/30/2020 9:07,"['science', 'technology', 'technology', 'education']",like,positive,50
+984,457301ee-3e87-40d8-8b82-ea4e1fa90e39,f11e8adf-a550-4e7a-ab81-dbccd952dff8,Daryl Mero,18,"343 Julia Landing
+Dominiquetown, OH 88073",DM@gmail.com,Samsung,3,6/24/2020 2:58,"['veganism', 'tennis']",indifferent,neutral,20
+985,457301ee-3e87-40d8-8b82-ea4e1fa90e39,70848bd7-6cd5-4686-b22b-a9afb05541a5,Shirley Yamada,17,"57117 Black Shoals Apt. 211
+Katherineview, RI 58972",SY@gmail.com,HTC,56,3/13/2021 21:26,['food'],super love,positive,75
+993,457301ee-3e87-40d8-8b82-ea4e1fa90e39,beb1f34e-7870-46d6-9fc7-2e12eb83ce43,Linda Mcclurg,13,"Unit 3999 Box 7280
+DPO AP 36681",LM@gmail.com,Huawei,54,2/3/2021 21:47,"['food', 'cooking', 'technology', 'science']",love,positive,65
+1001,457301ee-3e87-40d8-8b82-ea4e1fa90e39,83f8edc6-90b1-4f96-a80b-d6aa74103610,Allen Smith,9,"087 Gloria Walks Apt. 513
+South Abigailchester, NV 52268",AS@gmail.com,HTC,57,4/12/2021 23:07,"['healthy eating', 'culture', 'fitness', 'public speaking']",super love,positive,75
+1005,457301ee-3e87-40d8-8b82-ea4e1fa90e39,69f2735b-eee6-4fc1-a934-b31c20beb780,Meagan Starr,26,"4803 Vanessa Forks
+Ballstad, PA 29187",MS@gmail.com,HTC,41,3/8/2021 12:14,"['science', 'healthy eating', 'healthy eating']",worried,negative,12
+1010,457301ee-3e87-40d8-8b82-ea4e1fa90e39,f182f7d5-e202-4e89-832e-02205dd2ff02,Alice Oh,32,"778 Cook Trail
+Carrollville, TX 05440",AO@gmail.com,Microsoft,32,3/14/2021 7:00,"['cooking', 'technology', 'food']",like,positive,50
+1011,457301ee-3e87-40d8-8b82-ea4e1fa90e39,571d7193-a3e6-4909-b25c-e891fc126f31,Michael Allen,26,"346 Cruz Street
+Wintershaven, IN 76589",MA@gmail.com,Samsung,72,6/17/2021 13:42,['animals'],peeking,neutral,35
+1023,457301ee-3e87-40d8-8b82-ea4e1fa90e39,c1e01541-7508-4712-a22c-0370f232a41e,Jason Meehleder,3,"119 Powell Trace
+North Williambury, MD 32073",JM@gmail.com,Apple,20,1/20/2021 9:12,"['culture', 'fitness', 'cooking', 'science']",want,positive,70
+1025,4fa14453-7b29-4302-b51f-9aa23b472c1b,7719b807-bf22-4b36-8f69-44d9a87d239b,Myles Davis,20,"697 Michael Shore Suite 177
+West Rebecca, AR 95374",MD@gmail.com,Microsoft,94,4/18/2021 19:52,"['dogs', 'fitness']",cherish,positive,70
+1028,4fa14453-7b29-4302-b51f-9aa23b472c1b,ffdb3615-516c-422f-aa24-a137e3027d3a,Maria Hughes,35,"833 Erik Forest
+Michaelberg, NY 91180",MH@gmail.com,HTC,30,9/7/2020 15:12,"['food', 'technology', 'cooking']",heart,positive,60
+1032,4fa14453-7b29-4302-b51f-9aa23b472c1b,30a7de62-d6a1-47d6-963f-0724adf18c4b,Debbie Stanton,30,"56824 Crystal Freeway
+Hoovermouth, ME 38682",DS@gmail.com,Huawei,12,9/6/2020 9:22,['animals'],adore,positive,72
+1049,4fa14453-7b29-4302-b51f-9aa23b472c1b,5b62e10e-3c19-4d28-a57c-e9bdc3d6758d,Elvin Gehrke,24,"Unit 3930 Box 4373
+DPO AP 90809",EG@gmail.com,Google,56,10/19/2020 19:31,['tennis'],dislike,negative,10
+1051,16757b80-2803-4464-b5d7-e372d8d77337,2019ba88-1967-43e6-9710-b17ade18afb3,Ruth Washington,16,"341 Brandon Ford
+West Christineton, ME 06206",RW@gmail.com,Motorola,26,11/11/2020 18:52,"['technology', 'travel', 'dogs', 'fitness']",hate,negative,5
+1065,ab4c4756-1c50-4136-bad9-3216e01ffac2,2a41e628-4cc5-4765-af2e-8b3dec750c0b,Ann Jarvi,30,"659 Kelsey Parkways Suite 400
+Port Jonathonshire, IN 82069",AJ@gmail.com,Motorola,46,6/13/2021 16:20,"['healthy eating', 'veganism', 'animals']",like,positive,50
+1074,ab4c4756-1c50-4136-bad9-3216e01ffac2,cf34e8ee-f508-47bc-baa1-bcc576e1084d,Nicholas Nickerson,24,"16998 Thomas Curve Suite 874
+Karenview, MD 20823",NN@gmail.com,Huawei,10,3/23/2021 20:19,"['fitness', 'technology', 'healthy eating', 'education']",peeking,neutral,35
+1082,4478d98e-43e8-4dc0-884d-c1115aa8b970,84bd5adb-286c-429a-926d-4ea120270825,Eleanor Monty,6,"20737 Tanya Ranch Apt. 500
+South Raymond, FL 93608",EM@gmail.com,HTC,46,9/20/2020 7:23,"['veganism', 'science']",dislike,negative,10
+1083,4478d98e-43e8-4dc0-884d-c1115aa8b970,c834ba1d-8a10-4984-aaf2-7c2eab207076,Michael Beasley,24,"8563 Hill Glens
+West Melissa, MS 92364",MB@gmail.com,Huawei,43,10/10/2020 12:25,"['veganism', 'dogs', 'dogs', 'food']",super love,positive,75
+1092,4478d98e-43e8-4dc0-884d-c1115aa8b970,fe1c151b-1a95-43fa-9a4c-f3214adba852,Anthony Doty,39,"4966 Eric Brooks Suite 394
+New Malik, MO 03506",AD@gmail.com,HTC,17,3/4/2021 18:10,['soccer'],hate,negative,5
+1094,34f73132-fff6-4f01-a5ec-4b4b66461fc7,85a3acae-0e71-49f4-a6ee-13d3df1f4962,John Neal,9,"7523 Pierce Motorway Apt. 648
+Lopeztown, WV 43348",JN@gmail.com,Microsoft,89,4/27/2021 4:18,['public speaking'],adore,positive,72
+1102,34f73132-fff6-4f01-a5ec-4b4b66461fc7,b9bcd994-f000-4f6b-87fc-caae08acfaa1,Ruth Noriega,20,"69010 Clark Tunnel
+Andrewhaven, OK 11456",RN@gmail.com,Microsoft,56,3/31/2021 13:59,"['public speaking', 'studying']",like,positive,50
+1127,34f73132-fff6-4f01-a5ec-4b4b66461fc7,77908afa-eff6-49a9-b042-04fff799a0ff,Diane Hall,21,"125 Robert Path
+North Ashleystad, MS 10419",DH@gmail.com,Google,31,6/10/2021 8:11,['tennis'],like,positive,50
+1129,34f73132-fff6-4f01-a5ec-4b4b66461fc7,392bf6a1-dd73-48a5-9fd9-431749f2a8ef,Mary Hamby,41,"668 Patricia Isle
+Martinview, WI 93790",MH@gmail.com,Motorola,0,1/27/2021 15:57,"['public speaking', 'studying']",disgust,negative,0
+1143,bfa4e11c-9d72-49b9-bd43-49d95c2e5181,d5b6f279-ab5f-4391-b92a-c8acc8ceceb6,Norma Bethel,30,"5790 Brown Cove
+Marcuston, HI 91639",NB@gmail.com,Apple,14,5/29/2021 5:32,['dogs'],scared,negative,15
+1144,bfa4e11c-9d72-49b9-bd43-49d95c2e5181,1d8dfb6a-330c-4eb9-a603-364f207c6e57,Elizabeth Reinwald,16,"01026 Margaret Rapid Apt. 728
+Lake Martinburgh, MS 06268",ER@gmail.com,Samsung,18,9/8/2020 15:43,"['food', 'food']",cherish,positive,70
+1154,220d9dc1-f8a5-422d-b200-3819f3b89b2b,7d8464e7-44df-46bd-b338-d599eb730ea2,Shawn Cooley,19,"04322 Griffin Neck Suite 163
+Woodland, WI 30182",SC@gmail.com,Apple,59,12/11/2020 5:18,['public speaking'],super love,positive,75
+1155,220d9dc1-f8a5-422d-b200-3819f3b89b2b,8fe167eb-3c69-459a-b32d-b030b942eab4,Alison Brady,1,"501 Sherry Junction
+Reynoldsview, MN 89430",AB@gmail.com,HTC,62,1/28/2021 22:41,"['travel', 'food', 'technology', 'culture']",dislike,negative,10
+1163,220d9dc1-f8a5-422d-b200-3819f3b89b2b,19fa2bc2-96ab-45b6-99de-1995c2bee330,Rita Jones,8,"56503 Christopher Road Apt. 657
+North Jamesfort, GA 32215",RJ@gmail.com,Microsoft,49,2/6/2021 9:30,"['veganism', 'science']",heart,positive,60
+1170,220d9dc1-f8a5-422d-b200-3819f3b89b2b,f7785ec1-7383-4815-8206-80de7c05fdf9,Deanna Craig,44,"16530 Vincent Station
+North Christina, MA 49269",DC@gmail.com,Samsung,12,10/25/2020 1:37,"['studying', 'cooking', 'animals']",love,positive,65
+1173,220d9dc1-f8a5-422d-b200-3819f3b89b2b,168e6d97-0b9c-45d0-ba57-cabc8c60d428,Maria Simpson,40,"81437 Rojas Trafficway
+Anthonyview, OR 94177",MS@gmail.com,Samsung,5,6/26/2020 16:08,"['science', 'science']",disgust,negative,0
+1185,220d9dc1-f8a5-422d-b200-3819f3b89b2b,306662a5-e17a-44a4-bb67-cc858ae1dccd,Clifford Ma,15,"965 Collier Square
+Amymouth, NJ 27055",CM@gmail.com,Huawei,14,5/11/2021 14:07,"['culture', 'science', 'healthy eating']",want,positive,70
+1186,220d9dc1-f8a5-422d-b200-3819f3b89b2b,6053d7e5-47da-4156-8b7c-dacf23a0e660,Matthew Brown,31,"22154 Sampson Meadow Suite 214
+West Michael, CA 54623",MB@gmail.com,Samsung,22,9/21/2020 9:08,"['soccer', 'food', 'healthy eating', 'travel']",cherish,positive,70
+1196,ea1afba2-c0a8-4d0f-ac64-91fd7a126bbc,e32722f4-69b1-4aff-b13b-8928ea08fd6a,Margaret Spiro,41,"7883 Bridges Stravenue
+Charlesside, MT 36340",MS@gmail.com,Microsoft,97,4/27/2021 7:04,"['dogs', 'education']",adore,positive,72
+1202,ea1afba2-c0a8-4d0f-ac64-91fd7a126bbc,1a1be722-70b0-47e0-a737-1700cffa1e6d,Alan Rodriguez,32,"564 Gina Fall
+New Erin, NC 41873",AR@gmail.com,Samsung,44,1/16/2021 7:35,"['fitness', 'food', 'technology', 'studying']",super love,positive,75
+1224,18b4da8a-5f22-4dbe-b2af-c9013581cdd9,002cd824-10f2-447c-8d1c-940325a1cdf4,Deborah Eastes,5,"891 Anderson Point
+Port Brooke, ID 74539",DE@gmail.com,Huawei,51,8/16/2020 18:44,"['food', 'soccer', 'public speaking', 'public speaking']",intrigued,positive,45
+1240,18b4da8a-5f22-4dbe-b2af-c9013581cdd9,71519e2e-6e97-4b73-a346-cc3a91cb4661,Carlos Rushing,40,"5465 Stefanie Prairie Apt. 420
+Lake Judy, CA 54311",CR@gmail.com,HTC,45,6/24/2020 2:02,['fitness'],heart,positive,60
+1241,18b4da8a-5f22-4dbe-b2af-c9013581cdd9,34fcadd6-fa9b-4404-981a-c70c86cde556,Rosalee Jacinto,36,"Unit 6479 Box 6124
+DPO AE 50619",RJ@gmail.com,Motorola,38,2/6/2021 15:30,['healthy eating'],want,positive,70
+1251,18b4da8a-5f22-4dbe-b2af-c9013581cdd9,85eca06e-b8db-4fd9-b083-da47572c40b2,Kenneth Frye,11,"66770 Cardenas Fields
+Jackfurt, DE 71283",KF@gmail.com,Apple,67,12/27/2020 1:40,"['food', 'studying']",indifferent,neutral,20
+1257,18b4da8a-5f22-4dbe-b2af-c9013581cdd9,286516cf-d236-40de-8d28-7d0bd173125d,Carolyn Gonzalez,39,"331 Pratt Extensions Apt. 996
+Jasonton, OH 00695",CG@gmail.com,HTC,57,3/5/2021 13:41,"['animals', 'education', 'tennis']",worried,negative,12
+1258,18b4da8a-5f22-4dbe-b2af-c9013581cdd9,e89d4cb0-3bec-43b8-8060-719983fe68a9,Steven Jones,6,"913 Adam Plains Suite 065
+South Charles, PA 69250",SJ@gmail.com,Microsoft,41,12/15/2020 0:19,['technology'],interested,positive,30
+1264,259cd56f-b017-4a41-81a7-f26ce9b35092,76a034b7-e163-4735-a15b-b0ff645ca627,Robert Carrillo,31,"188 Jerome Island Suite 567
+Hansenton, WV 20127",RC@gmail.com,Apple,34,5/6/2021 9:35,"['fitness', 'education', 'culture', 'soccer']",adore,positive,72
+1285,14ed7f7b-2c96-4458-8a39-606c25c14180,f5d9a26e-986d-4d8e-a1c9-69493fb64736,Cordelia King,36,"9025 Karen Springs
+Esparzaton, CA 98219",CK@gmail.com,Apple,99,9/20/2020 19:56,"['culture', 'cooking', 'technology', 'travel']",dislike,negative,10
+1289,c01fa154-5348-4040-9d20-0bbf01f6349b,d47fd6cf-20fa-45fe-97a1-b8aca043c9a8,Natasha Hazelwood,13,"50989 Maria Port
+East Marissa, ME 50294",NH@gmail.com,Motorola,20,11/24/2020 19:10,"['fitness', 'veganism', 'public speaking', 'technology']",disgust,negative,0
+1305,c01fa154-5348-4040-9d20-0bbf01f6349b,f7d73e35-248c-4369-9e4d-1f38bea06a5f,Dawn Marr,36,"83683 Clinton Brooks
+Phillipschester, ME 56093",DM@gmail.com,Apple,83,4/20/2021 12:29,['travel'],hate,negative,5
+1317,c01fa154-5348-4040-9d20-0bbf01f6349b,41b0ee09-2868-4c4b-a22d-b533a7fa46af,Cristi Miller,29,"99287 Wilson Park Apt. 318
+Tonitown, IA 78146",CM@gmail.com,Google,74,5/14/2021 23:08,"['soccer', 'studying', 'science']",dislike,negative,10
+1328,c01fa154-5348-4040-9d20-0bbf01f6349b,3455a646-398f-4b16-b19a-1371cdb2e048,Angela Dunn,39,"7407 Rogers Junctions Suite 414
+Port Jennifer, SC 81017",AD@gmail.com,Apple,82,6/6/2021 16:28,['veganism'],indifferent,neutral,20
+1343,50c9237a-541c-4f10-a2be-7cbe076b2012,ec2729db-9794-466e-93ba-a19402e16bef,Johnny Nghe,5,"5622 Ruiz Squares Apt. 927
+Ellenview, NE 76223",JN@gmail.com,Motorola,27,6/10/2021 2:21,"['fitness', 'fitness']",hate,negative,5
+1351,50c9237a-541c-4f10-a2be-7cbe076b2012,5ff89fb3-b364-494f-b62d-07097b2ffa12,Suzanne Campbell,19,"55166 Christian Islands
+East Stephanie, SC 24173",SC@gmail.com,Google,84,4/9/2021 19:47,"['food', 'healthy eating', 'culture', 'education']",want,positive,70
+1381,5ecd7f9d-4184-4836-b1c5-f03e131ba0a7,e377a5c2-0378-4684-b7d1-5d80e04243ed,Kim Ruiz,41,"663 Sharp Fall
+East Benjaminview, VA 13189",KR@gmail.com,Microsoft,57,9/3/2020 2:11,"['studying', 'public speaking', 'animals', 'education']",super love,positive,75
+1417,e442899c-d2d6-4392-be2d-a0b916ae47fb,8d3661fd-d953-4c1b-857d-82b3e34f569e,Peter Oliver,25,"797 Smith Oval Suite 284
+Port David, VT 62603",PO@gmail.com,Apple,88,8/16/2020 21:42,"['science', 'science', 'science']",peeking,neutral,35
+1453,daab7b1a-fc8d-473e-bbf3-b29f4185ae56,db392b86-6ba5-4a9b-933a-a2553488bb62,Reta Brown,10,"3477 Joseph Trail
+Thomasview, CA 55294",RB@gmail.com,xtzqw,57,11/26/2020 3:30,"['healthy eating', 'culture']",dislike,negative,10
+1463,82145a60-013e-4d96-81a5-399af8618158,90e2caab-9daa-4bf0-8104-c25e6c70c59d,Kecia Jensen,33,"49297 Logan Forge Suite 391
+Port Tyler, OK 30237",KJ@gmail.com,HTC,15,12/13/2020 17:37,"['cooking', 'travel', 'animals']",peeking,neutral,35
+1478,82145a60-013e-4d96-81a5-399af8618158,55380131-13c6-4a5c-8826-ead0ea8895cc,James King,3,"0005 Gary Terrace Suite 782
+New Brandonton, TX 22928",JK@gmail.com,Samsung,87,9/22/2020 19:51,"['animals', 'fitness', 'travel', 'culture']",interested,positive,30
+1481,82145a60-013e-4d96-81a5-399af8618158,7e263bf1-e036-4cc8-9cb8-9beec89027a3,Suzanne Luce,38,"144 Alexander Inlet
+Kimberlyburgh, NV 40450",SL@gmail.com,Huawei,9,2/3/2021 23:56,"['food', 'tennis', 'animals']",disgust,negative,0
+1487,82145a60-013e-4d96-81a5-399af8618158,cb97b0ea-fc93-4597-b391-846710c6fedc,Jordan Cloe,6,"196 Claire Radial
+Lake Jacobstad, MD 36343",JC@gmail.com,Apple,36,8/19/2020 16:56,"['soccer', 'education', 'veganism']",dislike,negative,10
+1498,d852b946-01e1-44fe-abd7-26198660cbdb,e2377b94-f06a-49ed-a266-377c4b07e980,Dirk Fletcher,28,"68303 Carrillo Walk
+Donnaland, IN 25450",DF@gmail.com,Microsoft,11,8/9/2020 0:26,"['dogs', 'cooking', 'fitness']",scared,negative,15
+1534,87349e5b-eda4-4ae6-94d7-c42b9c5f03e9,808f5b0d-17e3-44e1-b58e-7f35ebabaff2,Sommer Battles,24,"9255 Barajas Streets
+Reyesmouth, NY 75630",SB@gmail.com,Microsoft,60,10/11/2020 19:59,"['tennis', 'cooking', 'fitness', 'food']",adore,positive,72
+1539,87349e5b-eda4-4ae6-94d7-c42b9c5f03e9,c924f935-cff8-45c0-b4b7-5ed2c6cdaac8,Marie Carrizales,0,"5436 Barry Forges
+South Elizabethburgh, ID 73937",MC@gmail.com,Microsoft,9,9/27/2020 1:57,"['food', 'food']",intrigued,positive,45
+1684,026973ef-4b73-4901-9160-bc9e04516057,fdbaec82-bc98-47b8-8fe6-4aec7524e8e3,Irene Marrow,35,"6361 Paula Summit Suite 040
+North Marytown, TN 78911",IM@gmail.com,Huawei,3,5/29/2021 19:52,"['tennis', 'healthy eating', 'food']",want,positive,70
+1758,258bb775-3c35-4eec-90f3-8b75a52e466a,4ef2c812-b152-4a72-a443-f4ff787d7b0d,Jimmy Anderson,6,"541 Rose Roads
+Bradshawfurt, WI 34666",JA@gmail.com,Huawei,81,11/3/2020 21:49,"['public speaking', 'culture', 'technology']",dislike,negative,10
+1772,258bb775-3c35-4eec-90f3-8b75a52e466a,542041fb-f361-4353-b0f0-442c1585317a,Oma Aldridge,4,"910 Stephen Square
+Weaverchester, RI 60451",OA@gmail.com,Google,36,1/29/2021 20:19,['science'],cherish,positive,70
+1783,8d32243c-2dd1-4128-bde1-d643207e582c,4dc7482d-e44b-47cc-bc27-7bf663497997,Rachel Taylor,26,"399 William Oval
+North William, NC 22079",RT@gmail.com,Huawei,91,8/24/2020 17:02,"['travel', 'veganism', 'food', 'cooking']",dislike,negative,10
+1815,8d32243c-2dd1-4128-bde1-d643207e582c,e8493c32-7f6f-4e57-a691-cf0df6f015c9,Elizabeth Holmes,21,"7927 Curtis Glen Suite 568
+South Thomas, CT 71151",EH@gmail.com,Motorola,23,1/3/2021 20:02,"['soccer', 'animals']",interested,positive,30
+1876,3d8fffab-6107-4d7b-9485-c610e233c91c,fc709c94-7491-4753-ad53-dfee49823a2f,Lauri Minnis,28,"72333 Joy Dale
+North Brandon, MN 60449",LMgovskansxq,Motorola,36,1/11/2021 15:20,"['soccer', 'healthy eating', 'veganism']",want,positive,70
+1884,3d8fffab-6107-4d7b-9485-c610e233c91c,fe224147-e893-4178-b46e-b12f22bd7ed1,Robert Watkins,12,"8637 Anderson Crest Apt. 989
+New Kevin, FL 22986",RW@gmail.com,HTC,2,9/20/2020 4:27,"['tennis', 'travel', 'technology', 'tennis']",peeking,neutral,35
+1891,3d8fffab-6107-4d7b-9485-c610e233c91c,06a8036a-6e4c-4b15-a6c8-ca74ac11ea73,Alyson Ellis,6,"88916 Hogan Squares Suite 468
+Travischester, CA 07575",AE@gmail.com,Motorola,2,1/26/2021 16:26,['soccer'],peeking,neutral,35
+1893,3d8fffab-6107-4d7b-9485-c610e233c91c,8298747d-33c8-441c-9c5a-a6cf648c95d8,James Kelcourse,1,"22016 Estes Square Apt. 179
+New Ericberg, LA 25809",JK@gmail.com,Huawei,5,12/23/2020 15:17,"['dogs', 'tennis', 'education', 'fitness']",heart,positive,60
+1896,3d8fffab-6107-4d7b-9485-c610e233c91c,24789387-968b-425a-8836-14e243cda16c,Margaret Williams,14,"6021 Christopher Crest Apt. 837
+Cartershire, DE 15440",MW@gmail.com,HTC,60,8/22/2020 6:24,"['animals', 'food', 'healthy eating']",scared,negative,15
+1901,3d8fffab-6107-4d7b-9485-c610e233c91c,7000ac2e-87a0-4e23-b342-5f150e03f9ef,Gerald Travis,34,"741 Knight Manors
+Taylorfurt, NE 98382",GT@gmail.com,Huawei,20,5/2/2021 4:05,"['travel', 'veganism', 'healthy eating']",cherish,positive,70
+1960,eaddee3e-3a23-47cd-9785-ab7f2120a293,b0d6f088-ee97-4087-aeb1-4957f24a5f4d,Robert Ung,25,"4482 Ann Throughway Suite 186
+New James, CO 10587",RU@gmail.com,Microsoft,18,4/11/2021 19:15,['veganism'],indifferent,neutral,20
+2044,3724de8a-ec2f-4021-a3f1-605d551da9d0,248a8f9f-10ac-4786-adfb-d0c3dd4e4b97,Addie Ippolito,19,"20012 Anderson Terrace Suite 936
+North Mark, DC 15374",AI@gmail.com,Huawei,85,12/22/2020 0:27,['dogs'],peeking,neutral,35
+2115,dcaa5091-1246-4d3c-aed8-dcd8e1da69cc,109782f9-4141-4d5a-826f-9a4ea672f65b,Todd Veasey,9,"5681 Johnson Circle Suite 627
+West Lisaville, IA 51824",TV@gmail.com,Microsoft,62,6/26/2020 3:29,"['fitness', 'animals', 'cooking', 'dogs']",want,positive,70
+2157,0491183b-be25-4108-b667-8c30d3cdbf50,3af8d78b-55c4-4ac0-8161-7cc3f6ec11c9,Betty Ellis,44,"Unit 2614 Box 8996
+DPO AE 23660",BE@gmail.com,Huawei,57,10/24/2020 1:46,['education'],like,positive,50
+2159,0491183b-be25-4108-b667-8c30d3cdbf50,a4a3247c-5e68-49d0-a768-a8d7db1c8ef4,Michelle Ebert,24,"96645 Terri Pass Suite 555
+South Joshua, CT 73965",ME@gmail.com,Samsung,62,6/26/2020 10:28,"['travel', 'tennis', 'tennis', 'culture']",cherish,positive,70
+2173,359b93ea-446f-4202-8801-db238de5de4d,acfcd174-178c-4af3-8118-5be702fb80cf,Shirley Riggan,37,"03255 Jordan Route Apt. 919
+Nicholasbury, SC 51073",SRkbabommpez,Google,65,3/2/2021 10:25,[0],want,positive,70
+2203,359b93ea-446f-4202-8801-db238de5de4d,b726d35b-6345-4ed9-8431-fc75e38ba179,Frances Powell,28,"06912 Townsend Plaza Suite 265
+South Andrew, DC 06057",FP@gmail.com,HTC,87,12/9/2020 12:14,"['soccer', 'soccer', 'soccer']",cherish,positive,70
+2214,0adb9a94-210a-4e84-bca1-13db9452ff0e,d9aab962-e964-4afd-83ee-abda0865da67,Belle Walks,2,"874 Reed Groves
+New Johnathanmouth, CO 59652",BW@gmail.com,Samsung,44,8/18/2020 13:19,"['tennis', 'food', 'technology', 'studying']",want,positive,70
+2307,3529c44b-d0f4-4bd2-b6eb-be97d2f7623f,18421d97-6f86-4d21-a7b1-dcc57dd8be76,Harlan Ford,15,"PSC 7263, Box 9049
+APO AA 08308",HF@gmail.com,Huawei,53,12/4/2020 19:11,"['dogs', 'education', 'culture', 'veganism']",heart,positive,60
+2355,45dbce0a-dbd8-4c4d-a492-4f5b84850d5c,d97f6964-a2d4-4d55-8f3d-5b4aac2f569f,Erin Stanley,34,"3073 Brett Bridge Apt. 897
+Lake Thomasfurt, VT 78445",ES@gmail.com,Huawei,85,11/18/2020 10:54,['public speaking'],dislike,negative,10
+2364,45dbce0a-dbd8-4c4d-a492-4f5b84850d5c,2026ccb6-77b2-494c-9b6b-a5d32aa86776,James Pao,24,"2908 Martha Drive
+West Travisport, KY 02699",JP@gmail.com,Google,90,6/2/2021 21:20,"[0, 1, 2, 3]",peeking,neutral,35
+2386,9d94f180-947c-40f5-aa05-f1958759b7fc,a1a9c0bd-785a-478f-a19e-9eb48fae0bd6,Amanda Price,7,"82182 Matthew Point Apt. 310
+Port Nicolebury, WV 57530",AP@gmail.com,HTC,12,6/5/2021 21:46,"['public speaking', 'education', 'culture', 'science']",dislike,negative,10
+2534,1de2f0f9-61ab-43fb-9180-6870824c63c0,92c3576c-8634-42a8-8005-6e1ff8c207e8,Patrick Ponce,25,"371 Payne Village Apt. 262
+Brianton, KS 65215",PP@gmail.com,HTC,11,12/30/2020 17:31,['veganism'],hate,negative,5
+2842,ec8e2d25-5730-4753-a0a2-d1ed41e23623,2af7f476-41b6-4147-aac7-0bbcb5043895,Thomas Goehner,9,"PSC 3816, Box 4398
+APO AA 82519",TG@gmail.com,Microsoft,60,2/27/2021 7:41,"['veganism', 'studying']",cherish,positive,70
+2863,67f2a150-6086-4cbd-8d21-46250ccef5a2,f0ef81ec-85b1-4475-ae60-aa7d373088aa,John Campbell,36,"296 Benjamin Rapids Suite 816
+Gregoryton, MD 19582",JC@gmail.com,Microsoft,91,7/8/2020 21:07,"['tennis', 'soccer', 'animals', 'tennis']",disgust,negative,0
+2985,5a5bf39d-1bfd-43f9-b304-ea8fbaaa3528,05782669-264e-4c14-990e-14c8dbb13bef,Jerrie Criswell,7,"34020 Joshua Mission Suite 487
+South Robertburgh, CT 26156",JC@gmail.com,Huawei,33,12/3/2020 15:40,"['veganism', 'education', 'science', 'food']",adore,positive,72
+3453,b56a9e24-d0f2-4599-b893-c2889a15e1d6,f2a3b679-edc8-4b0e-9793-995ef2e100f2,Beverly Courtney,41,"63468 Zuniga Island Suite 058
+Hillbury, NY 22177",BC@gmail.com,Microsoft,78,7/24/2020 11:03,['soccer'],super love,positive,75
